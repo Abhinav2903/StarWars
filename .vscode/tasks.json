@@ -1,0 +1,29 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "npm",
+			"script": "install",
+			"path": "Library/PackageCache/com.unity.ads@2.0.8/",
+			"problemMatcher": [],
+			"label": "npm: install - Library/PackageCache/com.unity.ads@2.0.8",
+			"detail": "install dependencies from package"
+		},
+		{
+			"type": "npm",
+			"script": "install",
+			"path": "Library/PackageCache/com.unity.analytics@3.2.3/",
+			"problemMatcher": [],
+			"label": "npm: install - Library/PackageCache/com.unity.analytics@3.2.3",
+			"detail": "install dependencies from package"
+		},
+		{
+			"type": "npm",
+			"script": "install",
+			"path": "Library/PackageCache/com.unity.collab-proxy@1.2.15/",
+			"problemMatcher": [],
+			"label": "npm: install - Library/PackageCache/com.unity.collab-proxy@1.2.15",
+			"detail": "install dependencies from package"
+		}
+	]
+}
