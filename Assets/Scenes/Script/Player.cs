@@ -6,13 +6,13 @@ public class Player : MonoBehaviour
 {
     // Start is called before the first frame update
     [SerializeField]
-    private int speed = 6;
+    private float speed = 6f;
     [SerializeField]
     private GameObject _laserPrefab;
     [SerializeField]
     private float fireRate = 0.15f;
     [SerializeField]
-    private float canFire = -1.0f;
+    private float canFire = 0f;
     [SerializeField]
     private int lives = 3;
     private SpawnManager _spawnManager;
@@ -20,7 +20,14 @@ public class Player : MonoBehaviour
     private GameObject _triplePrefab;
     [SerializeField]
     private bool tripleShotActive = false;
-
+    [SerializeField]
+    private bool speedUpActive = false;
+    [SerializeField]
+    private float speedMultiplier = 2;
+    [SerializeField]
+    private bool shieldActive = false;
+    [SerializeField]
+    private GameObject shieldVisualizer;
     void Start()
     {
       transform.position= new Vector3(0,0,0);
@@ -51,18 +58,14 @@ public class Player : MonoBehaviour
         //transform.Translate(Vector3.right * horizontalInput * Time.deltaTime * speed);
         
         // for movement restriction use
-        transform.position = new Vector3(transform.position.x,Mathf.Clamp(transform.position.y,-4.0f,1.0f),0.0f);
-        
-        transform.Translate(new Vector3(horizontalInput * Time.deltaTime * speed, verticalInput * Time.deltaTime * speed, 0));
-        if (transform.position.y > 5.8 || transform.position.y < -5.8)
-        {
-            transform.position = new Vector3(transform.position.x, transform.position.y * -1.0f, 0);
-        }
+        transform.position = new Vector3(Mathf.Clamp(transform.position.x,-10f,10f),Mathf.Clamp(transform.position.y,-4.0f,1.0f),0);
 
-        else if (transform.position.x > 10.5 || transform.position.x < -10.5)
+        transform.Translate(new Vector3(horizontalInput * Time.deltaTime * speed, verticalInput * Time.deltaTime *speed, 0));   
+
+        /*if (transform.position.x > 10.5f || transform.position.x < -10.5f)
         {
             transform.position = new Vector3(transform.position.x * -1.0f, transform.position.y, 0);
-        }
+        }*/
     }
     void fireLaser()
     {
@@ -80,16 +83,22 @@ public class Player : MonoBehaviour
 
     public void Damage()
     {
-        lives-=1;
-        if (lives <1)
+        if (shieldActive == true)
         {
-            _spawnManager.onPlayerDeath();      
-            Destroy(this.gameObject);
+            shieldActive = false;
+            shieldVisualizer.SetActive(false);
+            return;
         }
-       
+        
+            lives =lives - 1;
+            if (lives == 0)
+            {
+                _spawnManager.onPlayerDeath();
+                Destroy(this.gameObject);
+            }
     }
 
-    public void PowerUp()
+    public void TripleShotPowerUp()
     {
         tripleShotActive = true;
         StartCoroutine(TripleShotPowerDown());
@@ -98,6 +107,26 @@ public class Player : MonoBehaviour
     IEnumerator TripleShotPowerDown()
     {
         yield return new WaitForSeconds(5.0f);
-        tripleShotActive = false
+        tripleShotActive = false;
     }
+
+    public void SpeedPowerUP() {
+        speedUpActive = true;
+        speed = speed * speedMultiplier;
+        StartCoroutine(SpeedPowerDown());
+    }
+
+    IEnumerator SpeedPowerDown()
+    {
+        yield return new WaitForSeconds(5.0f);
+        speedUpActive = false;
+        speed = speed / speedMultiplier;
+    }
+
+    public void ShieldPowerUp()
+    {
+        shieldActive = true;
+        shieldVisualizer.SetActive(true);   
+    }
+
 }

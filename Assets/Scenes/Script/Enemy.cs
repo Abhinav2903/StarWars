@@ -5,14 +5,14 @@ using UnityEngine;
 public class Enemy : MonoBehaviour
 {
     [SerializeField]
-    private int enemySpd = 4;
+    private float enemySpd = 4f;
 
     void Update()
     {
         transform.Translate(Vector3.down * enemySpd * Time.deltaTime);
         if (transform.position.y <= -5.0f)
         {     
-            transform.position = new Vector3(Random.Range(-9.0f, 9.0f), 5, 0);
+            transform.position = new Vector3(Random.Range(-9.0f, 9.0f), 5f, 0);
         }
     }
 
