@@ -13,11 +13,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2020-05-16T15:56:44.688+05:30
-  initializedAtString: 2020-05-16T15:56:44.688+05:30
+  lastUpdatedAtString: 2020-05-16T19:42:25.823+05:30
+  initializedAtString: 2020-05-16T18:09:16.473+05:30
   currentGitRemote:
     name: origin
-    url: https://github.com/Abhinav2903/StarWars
+    url: https://github.com/Abhinav2903/StarWars.git
     login: 
     user: 
     host: 
@@ -25,14 +25,14 @@ MonoBehaviour:
     token: 
   currentGitBranch:
     name: master
-    tracking: 
+    tracking: origin/master
   currentConfigBranch:
     name: master
     remote:
-      name: 
-      url: 
-    trackingBranch: 
+      name: origin
+      url: https://github.com/Abhinav2903/StarWars.git
+    trackingBranch: master
   currentConfigRemote:
     name: origin
-    url: https://github.com/Abhinav2903/StarWars
+    url: https://github.com/Abhinav2903/StarWars.git
   currentHead: 

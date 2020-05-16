@@ -28,10 +28,14 @@ public class Player : MonoBehaviour
     private bool shieldActive = false;
     [SerializeField]
     private GameObject shieldVisualizer;
+    [SerializeField]
+    private int score;
+    private UImanager uim;
     void Start()
     {
       transform.position= new Vector3(0,0,0);
         _spawnManager = GameObject.Find("SpawnManager").GetComponent<SpawnManager>();
+        uim = GameObject.Find("Canvas").GetComponent<UImanager>();
         if (_spawnManager == null)
         {
             Debug.Log("No spwaning");
@@ -85,17 +89,22 @@ public class Player : MonoBehaviour
     {
         if (shieldActive == true)
         {
+
             shieldActive = false;
             shieldVisualizer.SetActive(false);
             return;
+
         }
-        
-            lives =lives - 1;
+        else
+        {
+            lives--;
+            uim.UpdateLives(lives);
             if (lives == 0)
             {
                 _spawnManager.onPlayerDeath();
                 Destroy(this.gameObject);
             }
+        }
     }
 
     public void TripleShotPowerUp()
@@ -126,7 +135,12 @@ public class Player : MonoBehaviour
     public void ShieldPowerUp()
     {
         shieldActive = true;
-        shieldVisualizer.SetActive(true);   
+        shieldVisualizer.SetActive(true);
     }
 
+    public void AddScore(int pts)
+    {
+        score += pts;
+        uim.UpdateScore(score);
+    }
 }
