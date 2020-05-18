@@ -14,16 +14,16 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_PixelRect:
     serializedVersion: 2
-    x: 0
-    y: 43
-    width: 1366
-    height: 725
+    x: 8
+    y: 51
+    width: 1350
+    height: 709
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 9}
-  m_MinSize: {x: 950, y: 548}
+  m_MinSize: {x: 950, y: 524}
   m_MaxSize: {x: 10000, y: 10000}
-  m_Maximized: 1
+  m_Maximized: 0
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -42,12 +42,12 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 30
-    width: 1366
-    height: 675
-  m_MinSize: {x: 536, y: 498}
-  m_MaxSize: {x: 18006, y: 14048}
+    width: 1350
+    height: 659
+  m_MinSize: {x: 709, y: 474}
+  m_MaxSize: {x: 18004, y: 14048}
   vertical: 1
-  controlID: 13
+  controlID: 162
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -63,18 +63,18 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-    x: 1086
+    x: 1073
     y: 0
-    width: 280
-    height: 675
-  m_MinSize: {x: 102, y: 124}
-  m_MaxSize: {x: 4002, y: 4024}
-  m_ActualView: {fileID: 15}
+    width: 277
+    height: 659
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_ActualView: {fileID: 18}
   m_Panes:
   - {fileID: 18}
   - {fileID: 15}
-  m_Selected: 1
-  m_LastSelected: 0
+  m_Selected: 0
+  m_LastSelected: 1
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -90,10 +90,10 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-    x: 815
+    x: 805
     y: 0
-    width: 271
-    height: 224
+    width: 268
+    height: 290
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 21}
@@ -119,13 +119,13 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
-    y: 224
-    width: 1086
-    height: 451
+    y: 290
+    width: 1073
+    height: 369
   m_MinSize: {x: 434, y: 274}
   m_MaxSize: {x: 14004, y: 10024}
   vertical: 0
-  controlID: 74
+  controlID: 165
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -141,10 +141,10 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-    x: 817
+    x: 807
     y: 0
-    width: 269
-    height: 451
+    width: 266
+    height: 369
   m_MinSize: {x: 234, y: 274}
   m_MaxSize: {x: 10004, y: 10024}
   m_ActualView: {fileID: 20}
@@ -171,12 +171,12 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 1366
-    height: 675
-  m_MinSize: {x: 536, y: 498}
-  m_MaxSize: {x: 18006, y: 14048}
+    width: 1350
+    height: 659
+  m_MinSize: {x: 709, y: 474}
+  m_MaxSize: {x: 18004, y: 14048}
   vertical: 0
-  controlID: 14
+  controlID: 163
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -194,8 +194,8 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 817
-    height: 451
+    width: 807
+    height: 369
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 22}
@@ -224,9 +224,9 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 1366
-    height: 725
-  m_MinSize: {x: 950, y: 548}
+    width: 1350
+    height: 709
+  m_MinSize: {x: 950, y: 524}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &10
 MonoBehaviour:
@@ -245,7 +245,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 1366
+    width: 1350
     height: 30
   m_MinSize: {x: 0, y: 0}
   m_MaxSize: {x: 0, y: 0}
@@ -266,8 +266,8 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
-    y: 705
-    width: 1366
+    y: 689
+    width: 1350
     height: 20
   m_MinSize: {x: 0, y: 0}
   m_MaxSize: {x: 0, y: 0}
@@ -290,12 +290,12 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 1086
-    height: 675
-  m_MinSize: {x: 434, y: 498}
+    width: 1073
+    height: 659
+  m_MinSize: {x: 434, y: 474}
   m_MaxSize: {x: 14004, y: 14048}
   vertical: 1
-  controlID: 73
+  controlID: 164
 --- !u!114 &13
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -315,12 +315,12 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 1086
-    height: 224
-  m_MinSize: {x: 306, y: 224}
-  m_MaxSize: {x: 8006, y: 4024}
+    width: 1073
+    height: 290
+  m_MinSize: {x: 302, y: 200}
+  m_MaxSize: {x: 8002, y: 4024}
   vertical: 0
-  controlID: 53
+  controlID: 127
 --- !u!114 &14
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -338,8 +338,8 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 815
-    height: 224
+    width: 805
+    height: 290
   m_MinSize: {x: 100, y: 100}
   m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 19}
@@ -373,14 +373,14 @@ MonoBehaviour:
     width: 278
     height: 655
   m_PersistentViewDataDictionary: {fileID: 0}
-  progressMessageClearTime: 5795.071099899999
+  progressMessageClearTime: -1
   notificationClearTime: -1
   timeSinceLastRotation: -1
   currentBranchAndRemoteHasUpdate: 0
   currentTrackingStatusHasUpdate: 0
   currentStatusEntriesHasUpdate: 0
   repositoryProgressHasUpdate: 1
-  appManagerProgressHasUpdate: 0
+  appManagerProgressHasUpdate: 1
   changeTab: 3
   activeTab: 3
   initProjectView:
@@ -565,8 +565,8 @@ MonoBehaviour:
       tracking: '[None]'
   changesView:
     currentBranchHasUpdate: 0
-    currentStatusEntriesHasUpdate: 0
-    currentLocksHasUpdate: 0
+    currentStatusEntriesHasUpdate: 1
+    currentLocksHasUpdate: 1
     commitBody: 
     commitMessage: main menu push
     currentBranch: '[master]'
@@ -575,22 +575,12 @@ MonoBehaviour:
       assets:
         keys:
         - 00000000000000001000000000000000
+        - 3548077c26b746048921ac401f324ea8
+        - c3f9daffb08551b44a59cc40544ec882
+        - 0cfea1d9f4f1a194c8e1a266c4cb9c40
         - bd5e6ee62350d2847b20e9c13785f5c9
-        - 09ed833b337dfca4b8a83f4b40d1fdc0
-        - 364a0de5919ae6940a4b55cf24850204
-        - caf53e640392cdd41a29bfd85cd4ef5c
-        - 045b38d46db53c0498aabc19685420c8
-        - 10659af3cbde4f14e8ba58097df3a044
-        - 39aa58d4f2863a8428b1cedd6dad144d
-        - d94431b0d6c2658418d6ab670fc2b9ac
-        - fb3a3a06809c1f443a09d2304b707ae1
-        - fb9c95670312c2e4fbe8c650cd7a0977
-        - f5df2bdf8f401a4429139828070ea27b
-        - abc353fc32d39654a8c21acc69a34cea
-        - ac21d9bd213d63e43bd473451e04fd99
-        - ef202204f48f89241bcdc9b7f473667e
-        - c21e59a99633e7e4cb1ca079de63e66e
-        - 0000000000000000b000000000000000
+        - 49cbdbcb6f76e9c429a51ab363cd1500
+        - c1f8a29cf58dec14393af8762850f741
         values:
         - path: Assets
           label: Assets
@@ -601,7 +591,7 @@ MonoBehaviour:
           isHidden: 0
           isActive: 0
           treeIsCheckable: 1
-          checkState: 1
+          checkState: 0
           isLocked: 0
           gitStatusEntry:
             path: 
@@ -610,6 +600,60 @@ MonoBehaviour:
             originalPath: 
             indexStatus: 0
             workTreeStatus: 0
+        - path: Assets\Animation
+          label: Animation
+          level: 1
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
+        - path: Assets\Animation\Enemy.controller
+          label: Enemy.controller
+          level: 2
+          isFolder: 0
+          isContainer: 1
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\Animation\Enemy.controller
+            fullPath: D:\UnityDev\Game\StarWars\Assets\Animation\Enemy.controller
+            projectPath: Assets\Animation\Enemy.controller
+            originalPath: 
+            indexStatus: 1
+            workTreeStatus: 1
+        - path: Assets\Animation\Enemy_Destroyed_anim.anim
+          label: Enemy_Destroyed_anim.anim
+          level: 2
+          isFolder: 0
+          isContainer: 1
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\Animation\Enemy_Destroyed_anim.anim
+            fullPath: D:\UnityDev\Game\StarWars\Assets\Animation\Enemy_Destroyed_anim.anim
+            projectPath: Assets\Animation\Enemy_Destroyed_anim.anim
+            originalPath: 
+            indexStatus: 1
+            workTreeStatus: 1
         - path: Assets\Prefabs
           label: Prefabs
           level: 1
@@ -619,7 +663,7 @@ MonoBehaviour:
           isHidden: 0
           isActive: 0
           treeIsCheckable: 1
-          checkState: 1
+          checkState: 0
           isLocked: 0
           gitStatusEntry:
             path: 
@@ -628,62 +672,8 @@ MonoBehaviour:
             originalPath: 
             indexStatus: 0
             workTreeStatus: 0
-        - path: Assets\Scenes
-          label: Scenes
-          level: 1
-          isFolder: 1
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 1
-          isLocked: 0
-          gitStatusEntry:
-            path: 
-            fullPath: 
-            projectPath: 
-            originalPath: 
-            indexStatus: 0
-            workTreeStatus: 0
-        - path: Assets\Scenes\Main_menu.unity
-          label: Main_menu.unity
-          level: 2
-          isFolder: 0
-          isContainer: 1
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 1
-          isLocked: 0
-          gitStatusEntry:
-            path: Assets\Scenes\Main_menu.unity
-            fullPath: D:\UnityDev\Game\StarWars\Assets\Scenes\Main_menu.unity
-            projectPath: Assets\Scenes\Main_menu.unity
-            originalPath: 
-            indexStatus: 1
-            workTreeStatus: 1
-        - path: Assets\Scenes\SampleScene.unity
-          label: SampleScene.unity
-          level: 2
-          isFolder: 0
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 1
-          isLocked: 0
-          gitStatusEntry:
-            path: Assets\Scenes\SampleScene.unity
-            fullPath: D:\UnityDev\Game\StarWars\Assets\Scenes\SampleScene.unity
-            projectPath: Assets\Scenes\SampleScene.unity
-            originalPath: 
-            indexStatus: 0
-            workTreeStatus: 3
-        - path: Assets\Scenes\Script
-          label: Script
+        - path: Assets\Prefabs\Enemy
+          label: Enemy
           level: 2
           isFolder: 1
           isContainer: 0
@@ -691,7 +681,7 @@ MonoBehaviour:
           isHidden: 0
           isActive: 0
           treeIsCheckable: 1
-          checkState: 1
+          checkState: 0
           isLocked: 0
           gitStatusEntry:
             path: 
@@ -700,337 +690,42 @@ MonoBehaviour:
             originalPath: 
             indexStatus: 0
             workTreeStatus: 0
-        - path: Assets\Script
-          label: Script
-          level: 1
-          isFolder: 1
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 1
-          isLocked: 0
-          gitStatusEntry:
-            path: 
-            fullPath: 
-            projectPath: 
-            originalPath: 
-            indexStatus: 0
-            workTreeStatus: 0
-        - path: Assets\Script\Enemy.cs
-          label: Enemy.cs
-          level: 2
-          isFolder: 0
-          isContainer: 1
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 1
-          isLocked: 0
-          gitStatusEntry:
-            path: Assets\Script\Enemy.cs
-            fullPath: D:\UnityDev\Game\StarWars\Assets\Script\Enemy.cs
-            projectPath: Assets\Script\Enemy.cs
-            originalPath: 
-            indexStatus: 1
-            workTreeStatus: 1
-        - path: Assets\Script\GameManager.cs
-          label: GameManager.cs
-          level: 2
-          isFolder: 0
-          isContainer: 1
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 1
-          isLocked: 0
-          gitStatusEntry:
-            path: Assets\Script\GameManager.cs
-            fullPath: D:\UnityDev\Game\StarWars\Assets\Script\GameManager.cs
-            projectPath: Assets\Script\GameManager.cs
-            originalPath: 
-            indexStatus: 1
-            workTreeStatus: 1
-        - path: Assets\Script\Laser.cs
-          label: Laser.cs
-          level: 2
-          isFolder: 0
-          isContainer: 1
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 1
-          isLocked: 0
-          gitStatusEntry:
-            path: Assets\Script\Laser.cs
-            fullPath: D:\UnityDev\Game\StarWars\Assets\Script\Laser.cs
-            projectPath: Assets\Script\Laser.cs
-            originalPath: 
-            indexStatus: 1
-            workTreeStatus: 1
-        - path: Assets\Script\MainMenu
-          label: MainMenu
-          level: 2
-          isFolder: 1
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 1
-          isLocked: 0
-          gitStatusEntry:
-            path: 
-            fullPath: 
-            projectPath: 
-            originalPath: 
-            indexStatus: 0
-            workTreeStatus: 0
-        - path: Assets\Script\MainMenu\MainMenu.cs
-          label: MainMenu.cs
+        - path: Assets\Prefabs\Enemy\Enemy.prefab
+          label: Enemy.prefab
           level: 3
           isFolder: 0
-          isContainer: 1
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 1
-          isLocked: 0
-          gitStatusEntry:
-            path: Assets\Script\MainMenu\MainMenu.cs
-            fullPath: D:\UnityDev\Game\StarWars\Assets\Script\MainMenu\MainMenu.cs
-            projectPath: Assets\Script\MainMenu\MainMenu.cs
-            originalPath: 
-            indexStatus: 1
-            workTreeStatus: 1
-        - path: Assets\Script\Player.cs
-          label: Player.cs
-          level: 2
-          isFolder: 0
-          isContainer: 1
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 1
-          isLocked: 0
-          gitStatusEntry:
-            path: Assets\Script\Player.cs
-            fullPath: D:\UnityDev\Game\StarWars\Assets\Script\Player.cs
-            projectPath: Assets\Script\Player.cs
-            originalPath: 
-            indexStatus: 1
-            workTreeStatus: 1
-        - path: Assets\Script\SpawnManager.cs
-          label: SpawnManager.cs
-          level: 2
-          isFolder: 0
-          isContainer: 1
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 1
-          isLocked: 0
-          gitStatusEntry:
-            path: Assets\Script\SpawnManager.cs
-            fullPath: D:\UnityDev\Game\StarWars\Assets\Script\SpawnManager.cs
-            projectPath: Assets\Script\SpawnManager.cs
-            originalPath: 
-            indexStatus: 1
-            workTreeStatus: 1
-        - path: Assets\Script\TriplePowerup.cs
-          label: TriplePowerup.cs
-          level: 2
-          isFolder: 0
-          isContainer: 1
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 1
-          isLocked: 0
-          gitStatusEntry:
-            path: Assets\Script\TriplePowerup.cs
-            fullPath: D:\UnityDev\Game\StarWars\Assets\Script\TriplePowerup.cs
-            projectPath: Assets\Script\TriplePowerup.cs
-            originalPath: 
-            indexStatus: 1
-            workTreeStatus: 1
-        - path: Assets\Script\UImanager.cs
-          label: UImanager.cs
-          level: 2
-          isFolder: 0
-          isContainer: 1
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 1
-          isLocked: 0
-          gitStatusEntry:
-            path: Assets\Script\UImanager.cs
-            fullPath: D:\UnityDev\Game\StarWars\Assets\Script\UImanager.cs
-            projectPath: Assets\Script\UImanager.cs
-            originalPath: 
-            indexStatus: 1
-            workTreeStatus: 1
-        - path: ProjectSettings\EditorBuildSettings.asset
-          label: EditorBuildSettings.asset
-          level: 1
-          isFolder: 0
           isContainer: 0
           isCollapsed: 0
           isHidden: 0
           isActive: 0
           treeIsCheckable: 1
-          checkState: 1
+          checkState: 0
           isLocked: 0
           gitStatusEntry:
-            path: ProjectSettings\EditorBuildSettings.asset
-            fullPath: D:\UnityDev\Game\StarWars\ProjectSettings\EditorBuildSettings.asset
-            projectPath: ProjectSettings\EditorBuildSettings.asset
+            path: Assets\Prefabs\Enemy\Enemy.prefab
+            fullPath: D:\UnityDev\Game\StarWars\Assets\Prefabs\Enemy\Enemy.prefab
+            projectPath: Assets\Prefabs\Enemy\Enemy.prefab
             originalPath: 
             indexStatus: 0
             workTreeStatus: 3
       folders:
         keys:
-        - .vs
-        - .vs\StarWars
-        - .vs\StarWars\v16
-        - .vs\StarWars\v16\Server
-        - .vs\StarWars\v16\Server\sqlite3
         - Assets
+        - Assets\Animation
         - Assets\Prefabs
-        - Assets\Scenes
-        - Assets\Scenes\Script
-        - Assets\Script
-        - Assets\Script\MainMenu
+        - Assets\Prefabs\Enemy
         - Library
         - Library\gfu
         - Library\gfu\cache
         - Library\metadata
-        - Library\metadata\04
-        - Library\metadata\10
-        - Library\metadata\36
-        - Library\metadata\38
-        - Library\metadata\39
-        - Library\metadata\43
-        - Library\metadata\ab
-        - Library\metadata\ac
-        - Library\metadata\c2
-        - Library\metadata\d9
-        - Library\metadata\ef
-        - Library\metadata\f5
-        - Library\metadata\fb
-        - Library\ScriptAssemblies
-        - Library\ShaderCache
-        - Library\ShaderCache\3
+        - Library\metadata\0c
+        - Library\metadata\c1
+        - Library\metadata\c3
         - Library\StateCache
         - Library\StateCache\Hierarchy
-        - Library\StateCache\SceneView
-        - obj
-        - obj\Debug
-        - ProjectSettings
         - Temp
-        - Temp\__Backupscenes
         - Temp\ProcessJobs
         values:
-        - path: .vs
-          label: .vs
-          level: 0
-          isFolder: 1
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 1
-          isLocked: 0
-          gitStatusEntry:
-            path: 
-            fullPath: 
-            projectPath: 
-            originalPath: 
-            indexStatus: 0
-            workTreeStatus: 0
-        - path: .vs\StarWars
-          label: StarWars
-          level: 1
-          isFolder: 1
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 1
-          isLocked: 0
-          gitStatusEntry:
-            path: 
-            fullPath: 
-            projectPath: 
-            originalPath: 
-            indexStatus: 0
-            workTreeStatus: 0
-        - path: .vs\StarWars\v16
-          label: v16
-          level: 2
-          isFolder: 1
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 1
-          isLocked: 0
-          gitStatusEntry:
-            path: 
-            fullPath: 
-            projectPath: 
-            originalPath: 
-            indexStatus: 0
-            workTreeStatus: 0
-        - path: .vs\StarWars\v16\Server
-          label: Server
-          level: 3
-          isFolder: 1
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 1
-          isLocked: 0
-          gitStatusEntry:
-            path: 
-            fullPath: 
-            projectPath: 
-            originalPath: 
-            indexStatus: 0
-            workTreeStatus: 0
-        - path: .vs\StarWars\v16\Server\sqlite3
-          label: sqlite3
-          level: 4
-          isFolder: 1
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 1
-          isLocked: 0
-          gitStatusEntry:
-            path: 
-            fullPath: 
-            projectPath: 
-            originalPath: 
-            indexStatus: 0
-            workTreeStatus: 0
         - path: Assets
           label: Assets
           level: 0
@@ -1040,7 +735,25 @@ MonoBehaviour:
           isHidden: 0
           isActive: 0
           treeIsCheckable: 1
-          checkState: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
+        - path: Assets\Animation
+          label: Animation
+          level: 1
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
           isLocked: 0
           gitStatusEntry:
             path: 
@@ -1058,7 +771,7 @@ MonoBehaviour:
           isHidden: 0
           isActive: 0
           treeIsCheckable: 1
-          checkState: 1
+          checkState: 0
           isLocked: 0
           gitStatusEntry:
             path: 
@@ -1067,26 +780,8 @@ MonoBehaviour:
             originalPath: 
             indexStatus: 0
             workTreeStatus: 0
-        - path: Assets\Scenes
-          label: Scenes
-          level: 1
-          isFolder: 1
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 1
-          isLocked: 0
-          gitStatusEntry:
-            path: 
-            fullPath: 
-            projectPath: 
-            originalPath: 
-            indexStatus: 0
-            workTreeStatus: 0
-        - path: Assets\Scenes\Script
-          label: Script
+        - path: Assets\Prefabs\Enemy
+          label: Enemy
           level: 2
           isFolder: 1
           isContainer: 0
@@ -1094,43 +789,7 @@ MonoBehaviour:
           isHidden: 0
           isActive: 0
           treeIsCheckable: 1
-          checkState: 1
-          isLocked: 0
-          gitStatusEntry:
-            path: 
-            fullPath: 
-            projectPath: 
-            originalPath: 
-            indexStatus: 0
-            workTreeStatus: 0
-        - path: Assets\Script
-          label: Script
-          level: 1
-          isFolder: 1
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 1
-          isLocked: 0
-          gitStatusEntry:
-            path: 
-            fullPath: 
-            projectPath: 
-            originalPath: 
-            indexStatus: 0
-            workTreeStatus: 0
-        - path: Assets\Script\MainMenu
-          label: MainMenu
-          level: 2
-          isFolder: 1
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 1
+          checkState: 0
           isLocked: 0
           gitStatusEntry:
             path: 
@@ -1148,7 +807,7 @@ MonoBehaviour:
           isHidden: 0
           isActive: 0
           treeIsCheckable: 1
-          checkState: 2
+          checkState: 0
           isLocked: 0
           gitStatusEntry:
             path: 
@@ -1166,7 +825,7 @@ MonoBehaviour:
           isHidden: 0
           isActive: 0
           treeIsCheckable: 1
-          checkState: 2
+          checkState: 0
           isLocked: 0
           gitStatusEntry:
             path: 
@@ -1184,7 +843,7 @@ MonoBehaviour:
           isHidden: 0
           isActive: 0
           treeIsCheckable: 1
-          checkState: 2
+          checkState: 0
           isLocked: 0
           gitStatusEntry:
             path: 
@@ -1202,7 +861,7 @@ MonoBehaviour:
           isHidden: 0
           isActive: 0
           treeIsCheckable: 1
-          checkState: 1
+          checkState: 0
           isLocked: 0
           gitStatusEntry:
             path: 
@@ -1211,8 +870,8 @@ MonoBehaviour:
             originalPath: 
             indexStatus: 0
             workTreeStatus: 0
-        - path: Library\metadata\04
-          label: 04
+        - path: Library\metadata\0c
+          label: 0c
           level: 2
           isFolder: 1
           isContainer: 0
@@ -1220,7 +879,7 @@ MonoBehaviour:
           isHidden: 0
           isActive: 0
           treeIsCheckable: 1
-          checkState: 1
+          checkState: 0
           isLocked: 0
           gitStatusEntry:
             path: 
@@ -1229,8 +888,8 @@ MonoBehaviour:
             originalPath: 
             indexStatus: 0
             workTreeStatus: 0
-        - path: Library\metadata\10
-          label: 10
+        - path: Library\metadata\c1
+          label: c1
           level: 2
           isFolder: 1
           isContainer: 0
@@ -1238,7 +897,7 @@ MonoBehaviour:
           isHidden: 0
           isActive: 0
           treeIsCheckable: 1
-          checkState: 1
+          checkState: 0
           isLocked: 0
           gitStatusEntry:
             path: 
@@ -1247,8 +906,8 @@ MonoBehaviour:
             originalPath: 
             indexStatus: 0
             workTreeStatus: 0
-        - path: Library\metadata\36
-          label: 36
+        - path: Library\metadata\c3
+          label: c3
           level: 2
           isFolder: 1
           isContainer: 0
@@ -1256,241 +915,7 @@ MonoBehaviour:
           isHidden: 0
           isActive: 0
           treeIsCheckable: 1
-          checkState: 1
-          isLocked: 0
-          gitStatusEntry:
-            path: 
-            fullPath: 
-            projectPath: 
-            originalPath: 
-            indexStatus: 0
-            workTreeStatus: 0
-        - path: Library\metadata\38
-          label: 38
-          level: 2
-          isFolder: 1
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 1
-          isLocked: 0
-          gitStatusEntry:
-            path: 
-            fullPath: 
-            projectPath: 
-            originalPath: 
-            indexStatus: 0
-            workTreeStatus: 0
-        - path: Library\metadata\39
-          label: 39
-          level: 2
-          isFolder: 1
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 1
-          isLocked: 0
-          gitStatusEntry:
-            path: 
-            fullPath: 
-            projectPath: 
-            originalPath: 
-            indexStatus: 0
-            workTreeStatus: 0
-        - path: Library\metadata\43
-          label: 43
-          level: 2
-          isFolder: 1
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 1
-          isLocked: 0
-          gitStatusEntry:
-            path: 
-            fullPath: 
-            projectPath: 
-            originalPath: 
-            indexStatus: 0
-            workTreeStatus: 0
-        - path: Library\metadata\ab
-          label: ab
-          level: 2
-          isFolder: 1
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 1
-          isLocked: 0
-          gitStatusEntry:
-            path: 
-            fullPath: 
-            projectPath: 
-            originalPath: 
-            indexStatus: 0
-            workTreeStatus: 0
-        - path: Library\metadata\ac
-          label: ac
-          level: 2
-          isFolder: 1
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 1
-          isLocked: 0
-          gitStatusEntry:
-            path: 
-            fullPath: 
-            projectPath: 
-            originalPath: 
-            indexStatus: 0
-            workTreeStatus: 0
-        - path: Library\metadata\c2
-          label: c2
-          level: 2
-          isFolder: 1
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 1
-          isLocked: 0
-          gitStatusEntry:
-            path: 
-            fullPath: 
-            projectPath: 
-            originalPath: 
-            indexStatus: 0
-            workTreeStatus: 0
-        - path: Library\metadata\d9
-          label: d9
-          level: 2
-          isFolder: 1
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 1
-          isLocked: 0
-          gitStatusEntry:
-            path: 
-            fullPath: 
-            projectPath: 
-            originalPath: 
-            indexStatus: 0
-            workTreeStatus: 0
-        - path: Library\metadata\ef
-          label: ef
-          level: 2
-          isFolder: 1
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 1
-          isLocked: 0
-          gitStatusEntry:
-            path: 
-            fullPath: 
-            projectPath: 
-            originalPath: 
-            indexStatus: 0
-            workTreeStatus: 0
-        - path: Library\metadata\f5
-          label: f5
-          level: 2
-          isFolder: 1
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 1
-          isLocked: 0
-          gitStatusEntry:
-            path: 
-            fullPath: 
-            projectPath: 
-            originalPath: 
-            indexStatus: 0
-            workTreeStatus: 0
-        - path: Library\metadata\fb
-          label: fb
-          level: 2
-          isFolder: 1
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 1
-          isLocked: 0
-          gitStatusEntry:
-            path: 
-            fullPath: 
-            projectPath: 
-            originalPath: 
-            indexStatus: 0
-            workTreeStatus: 0
-        - path: Library\ScriptAssemblies
-          label: ScriptAssemblies
-          level: 1
-          isFolder: 1
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 1
-          isLocked: 0
-          gitStatusEntry:
-            path: 
-            fullPath: 
-            projectPath: 
-            originalPath: 
-            indexStatus: 0
-            workTreeStatus: 0
-        - path: Library\ShaderCache
-          label: ShaderCache
-          level: 1
-          isFolder: 1
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 1
-          isLocked: 0
-          gitStatusEntry:
-            path: 
-            fullPath: 
-            projectPath: 
-            originalPath: 
-            indexStatus: 0
-            workTreeStatus: 0
-        - path: Library\ShaderCache\3
-          label: 3
-          level: 2
-          isFolder: 1
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 1
+          checkState: 0
           isLocked: 0
           gitStatusEntry:
             path: 
@@ -1508,7 +933,7 @@ MonoBehaviour:
           isHidden: 0
           isActive: 0
           treeIsCheckable: 1
-          checkState: 1
+          checkState: 0
           isLocked: 0
           gitStatusEntry:
             path: 
@@ -1526,79 +951,7 @@ MonoBehaviour:
           isHidden: 0
           isActive: 0
           treeIsCheckable: 1
-          checkState: 1
-          isLocked: 0
-          gitStatusEntry:
-            path: 
-            fullPath: 
-            projectPath: 
-            originalPath: 
-            indexStatus: 0
-            workTreeStatus: 0
-        - path: Library\StateCache\SceneView
-          label: SceneView
-          level: 2
-          isFolder: 1
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 1
-          isLocked: 0
-          gitStatusEntry:
-            path: 
-            fullPath: 
-            projectPath: 
-            originalPath: 
-            indexStatus: 0
-            workTreeStatus: 0
-        - path: obj
-          label: obj
-          level: 0
-          isFolder: 1
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 1
-          isLocked: 0
-          gitStatusEntry:
-            path: 
-            fullPath: 
-            projectPath: 
-            originalPath: 
-            indexStatus: 0
-            workTreeStatus: 0
-        - path: obj\Debug
-          label: Debug
-          level: 1
-          isFolder: 1
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 1
-          isLocked: 0
-          gitStatusEntry:
-            path: 
-            fullPath: 
-            projectPath: 
-            originalPath: 
-            indexStatus: 0
-            workTreeStatus: 0
-        - path: ProjectSettings
-          label: ProjectSettings
-          level: 0
-          isFolder: 1
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 1
+          checkState: 0
           isLocked: 0
           gitStatusEntry:
             path: 
@@ -1616,25 +969,7 @@ MonoBehaviour:
           isHidden: 0
           isActive: 0
           treeIsCheckable: 1
-          checkState: 1
-          isLocked: 0
-          gitStatusEntry:
-            path: 
-            fullPath: 
-            projectPath: 
-            originalPath: 
-            indexStatus: 0
-            workTreeStatus: 0
-        - path: Temp\__Backupscenes
-          label: __Backupscenes
-          level: 1
-          isFolder: 1
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 1
+          checkState: 0
           isLocked: 0
           gitStatusEntry:
             path: 
@@ -1652,7 +987,7 @@ MonoBehaviour:
           isHidden: 0
           isActive: 0
           treeIsCheckable: 1
-          checkState: 1
+          checkState: 0
           isLocked: 0
           gitStatusEntry:
             path: 
@@ -1689,186 +1024,6 @@ MonoBehaviour:
           originalPath: 
           indexStatus: 0
           workTreeStatus: 0
-      - path: .vs
-        label: .vs
-        level: 0
-        isFolder: 1
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: 
-          fullPath: 
-          projectPath: 
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 0
-      - path: .vs\StarWars
-        label: StarWars
-        level: 1
-        isFolder: 1
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: 
-          fullPath: 
-          projectPath: 
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 0
-      - path: .vs\StarWars\v16
-        label: v16
-        level: 2
-        isFolder: 1
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: 
-          fullPath: 
-          projectPath: 
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 0
-      - path: .vs\StarWars\v16\.suo
-        label: .suo
-        level: 3
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: .vs\StarWars\v16\.suo
-          fullPath: D:\UnityDev\Game\StarWars\.vs\StarWars\v16\.suo
-          projectPath: .vs\StarWars\v16\.suo
-          originalPath: 
-          indexStatus: 1
-          workTreeStatus: 1
-      - path: .vs\StarWars\v16\Server
-        label: Server
-        level: 3
-        isFolder: 1
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: 
-          fullPath: 
-          projectPath: 
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 0
-      - path: .vs\StarWars\v16\Server\sqlite3
-        label: sqlite3
-        level: 4
-        isFolder: 1
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: 
-          fullPath: 
-          projectPath: 
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 0
-      - path: .vs\StarWars\v16\Server\sqlite3\db.lock
-        label: db.lock
-        level: 5
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: .vs\StarWars\v16\Server\sqlite3\db.lock
-          fullPath: D:\UnityDev\Game\StarWars\.vs\StarWars\v16\Server\sqlite3\db.lock
-          projectPath: .vs\StarWars\v16\Server\sqlite3\db.lock
-          originalPath: 
-          indexStatus: 1
-          workTreeStatus: 1
-      - path: .vs\StarWars\v16\Server\sqlite3\storage.ide
-        label: storage.ide
-        level: 5
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: .vs\StarWars\v16\Server\sqlite3\storage.ide
-          fullPath: D:\UnityDev\Game\StarWars\.vs\StarWars\v16\Server\sqlite3\storage.ide
-          projectPath: .vs\StarWars\v16\Server\sqlite3\storage.ide
-          originalPath: 
-          indexStatus: 1
-          workTreeStatus: 1
-      - path: .vs\StarWars\v16\Server\sqlite3\storage.ide-shm
-        label: storage.ide-shm
-        level: 5
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: .vs\StarWars\v16\Server\sqlite3\storage.ide-shm
-          fullPath: D:\UnityDev\Game\StarWars\.vs\StarWars\v16\Server\sqlite3\storage.ide-shm
-          projectPath: .vs\StarWars\v16\Server\sqlite3\storage.ide-shm
-          originalPath: 
-          indexStatus: 1
-          workTreeStatus: 1
-      - path: .vs\StarWars\v16\Server\sqlite3\storage.ide-wal
-        label: storage.ide-wal
-        level: 5
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: .vs\StarWars\v16\Server\sqlite3\storage.ide-wal
-          fullPath: D:\UnityDev\Game\StarWars\.vs\StarWars\v16\Server\sqlite3\storage.ide-wal
-          projectPath: .vs\StarWars\v16\Server\sqlite3\storage.ide-wal
-          originalPath: 
-          indexStatus: 1
-          workTreeStatus: 1
       - path: Assembly-CSharp.csproj
         label: Assembly-CSharp.csproj
         level: 0
@@ -1878,7 +1033,7 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 1
+        checkState: 0
         isLocked: 0
         gitStatusEntry:
           path: Assembly-CSharp.csproj
@@ -1896,7 +1051,7 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 1
+        checkState: 0
         isLocked: 0
         gitStatusEntry:
           path: Assembly-CSharp-Editor-firstpass.csproj
@@ -1914,7 +1069,7 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 1
+        checkState: 0
         isLocked: 0
         gitStatusEntry:
           path: 
@@ -1923,6 +1078,96 @@ MonoBehaviour:
           originalPath: 
           indexStatus: 0
           workTreeStatus: 0
+      - path: Assets\Animation
+        label: Animation
+        level: 1
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+      - path: Assets\Animation\Enemy.controller
+        label: Enemy.controller
+        level: 2
+        isFolder: 0
+        isContainer: 1
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets\Animation\Enemy.controller
+          fullPath: D:\UnityDev\Game\StarWars\Assets\Animation\Enemy.controller
+          projectPath: Assets\Animation\Enemy.controller
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Assets\Animation\Enemy.controller.meta
+        label: Enemy.controller.meta
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets\Animation\Enemy.controller.meta
+          fullPath: D:\UnityDev\Game\StarWars\Assets\Animation\Enemy.controller.meta
+          projectPath: Assets\Animation\Enemy.controller.meta
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Assets\Animation\Enemy_Destroyed_anim.anim
+        label: Enemy_Destroyed_anim.anim
+        level: 2
+        isFolder: 0
+        isContainer: 1
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets\Animation\Enemy_Destroyed_anim.anim
+          fullPath: D:\UnityDev\Game\StarWars\Assets\Animation\Enemy_Destroyed_anim.anim
+          projectPath: Assets\Animation\Enemy_Destroyed_anim.anim
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Assets\Animation\Enemy_Destroyed_anim.anim.meta
+        label: Enemy_Destroyed_anim.anim.meta
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets\Animation\Enemy_Destroyed_anim.anim.meta
+          fullPath: D:\UnityDev\Game\StarWars\Assets\Animation\Enemy_Destroyed_anim.anim.meta
+          projectPath: Assets\Animation\Enemy_Destroyed_anim.anim.meta
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
       - path: Assets\Prefabs
         label: Prefabs
         level: 1
@@ -1932,7 +1177,7 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 1
+        checkState: 0
         isLocked: 0
         gitStatusEntry:
           path: 
@@ -1941,690 +1186,42 @@ MonoBehaviour:
           originalPath: 
           indexStatus: 0
           workTreeStatus: 0
-      - path: Assets\Prefabs\Enemy.prefab.meta
-        label: Enemy.prefab.meta
+      - path: Assets\Prefabs\Enemy
+        label: Enemy
         level: 2
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+      - path: Assets\Prefabs\Enemy\Enemy.prefab
+        label: Enemy.prefab
+        level: 3
         isFolder: 0
         isContainer: 0
         isCollapsed: 0
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 1
+        checkState: 0
         isLocked: 0
         gitStatusEntry:
-          path: Assets\Prefabs\Enemy.prefab.meta
-          fullPath: D:\UnityDev\Game\StarWars\Assets\Prefabs\Enemy.prefab.meta
-          projectPath: Assets\Prefabs\Enemy.prefab.meta
+          path: Assets\Prefabs\Enemy\Enemy.prefab
+          fullPath: D:\UnityDev\Game\StarWars\Assets\Prefabs\Enemy\Enemy.prefab
+          projectPath: Assets\Prefabs\Enemy\Enemy.prefab
           originalPath: 
           indexStatus: 0
           workTreeStatus: 3
-      - path: Assets\Prefabs\Triple_Shot_Powerup.prefab.meta
-        label: Triple_Shot_Powerup.prefab.meta
-        level: 2
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: Assets\Prefabs\Triple_Shot_Powerup.prefab.meta
-          fullPath: D:\UnityDev\Game\StarWars\Assets\Prefabs\Triple_Shot_Powerup.prefab.meta
-          projectPath: Assets\Prefabs\Triple_Shot_Powerup.prefab.meta
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 3
-      - path: Assets\Scenes
-        label: Scenes
-        level: 1
-        isFolder: 1
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: 
-          fullPath: 
-          projectPath: 
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 0
-      - path: Assets\Scenes\Main_menu.unity
-        label: Main_menu.unity
-        level: 2
-        isFolder: 0
-        isContainer: 1
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: Assets\Scenes\Main_menu.unity
-          fullPath: D:\UnityDev\Game\StarWars\Assets\Scenes\Main_menu.unity
-          projectPath: Assets\Scenes\Main_menu.unity
-          originalPath: 
-          indexStatus: 1
-          workTreeStatus: 1
-      - path: Assets\Scenes\Main_menu.unity.meta
-        label: Main_menu.unity.meta
-        level: 3
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: Assets\Scenes\Main_menu.unity.meta
-          fullPath: D:\UnityDev\Game\StarWars\Assets\Scenes\Main_menu.unity.meta
-          projectPath: Assets\Scenes\Main_menu.unity.meta
-          originalPath: 
-          indexStatus: 1
-          workTreeStatus: 1
-      - path: Assets\Scenes\SampleScene.unity
-        label: SampleScene.unity
-        level: 2
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: Assets\Scenes\SampleScene.unity
-          fullPath: D:\UnityDev\Game\StarWars\Assets\Scenes\SampleScene.unity
-          projectPath: Assets\Scenes\SampleScene.unity
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 3
-      - path: Assets\Scenes\Script.meta
-        label: Script.meta
-        level: 2
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: Assets\Scenes\Script.meta
-          fullPath: D:\UnityDev\Game\StarWars\Assets\Scenes\Script.meta
-          projectPath: Assets\Scenes\Script.meta
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 5
-      - path: Assets\Scenes\Script
-        label: Script
-        level: 2
-        isFolder: 1
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: 
-          fullPath: 
-          projectPath: 
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 0
-      - path: Assets\Scenes\Script\Enemy.cs
-        label: Enemy.cs
-        level: 3
-        isFolder: 0
-        isContainer: 1
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: Assets\Scenes\Script\Enemy.cs
-          fullPath: D:\UnityDev\Game\StarWars\Assets\Scenes\Script\Enemy.cs
-          projectPath: Assets\Scenes\Script\Enemy.cs
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 5
-      - path: Assets\Scenes\Script\Enemy.cs.meta
-        label: Enemy.cs.meta
-        level: 4
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: Assets\Scenes\Script\Enemy.cs.meta
-          fullPath: D:\UnityDev\Game\StarWars\Assets\Scenes\Script\Enemy.cs.meta
-          projectPath: Assets\Scenes\Script\Enemy.cs.meta
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 5
-      - path: Assets\Scenes\Script\Laser.cs
-        label: Laser.cs
-        level: 3
-        isFolder: 0
-        isContainer: 1
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: Assets\Scenes\Script\Laser.cs
-          fullPath: D:\UnityDev\Game\StarWars\Assets\Scenes\Script\Laser.cs
-          projectPath: Assets\Scenes\Script\Laser.cs
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 5
-      - path: Assets\Scenes\Script\Laser.cs.meta
-        label: Laser.cs.meta
-        level: 4
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: Assets\Scenes\Script\Laser.cs.meta
-          fullPath: D:\UnityDev\Game\StarWars\Assets\Scenes\Script\Laser.cs.meta
-          projectPath: Assets\Scenes\Script\Laser.cs.meta
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 5
-      - path: Assets\Scenes\Script\Player.cs
-        label: Player.cs
-        level: 3
-        isFolder: 0
-        isContainer: 1
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: Assets\Scenes\Script\Player.cs
-          fullPath: D:\UnityDev\Game\StarWars\Assets\Scenes\Script\Player.cs
-          projectPath: Assets\Scenes\Script\Player.cs
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 5
-      - path: Assets\Scenes\Script\Player.cs.meta
-        label: Player.cs.meta
-        level: 4
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: Assets\Scenes\Script\Player.cs.meta
-          fullPath: D:\UnityDev\Game\StarWars\Assets\Scenes\Script\Player.cs.meta
-          projectPath: Assets\Scenes\Script\Player.cs.meta
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 5
-      - path: Assets\Scenes\Script\SpawnManager.cs
-        label: SpawnManager.cs
-        level: 3
-        isFolder: 0
-        isContainer: 1
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: Assets\Scenes\Script\SpawnManager.cs
-          fullPath: D:\UnityDev\Game\StarWars\Assets\Scenes\Script\SpawnManager.cs
-          projectPath: Assets\Scenes\Script\SpawnManager.cs
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 5
-      - path: Assets\Scenes\Script\SpawnManager.cs.meta
-        label: SpawnManager.cs.meta
-        level: 4
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: Assets\Scenes\Script\SpawnManager.cs.meta
-          fullPath: D:\UnityDev\Game\StarWars\Assets\Scenes\Script\SpawnManager.cs.meta
-          projectPath: Assets\Scenes\Script\SpawnManager.cs.meta
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 5
-      - path: Assets\Scenes\Script\TriplePowerup.cs
-        label: TriplePowerup.cs
-        level: 3
-        isFolder: 0
-        isContainer: 1
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: Assets\Scenes\Script\TriplePowerup.cs
-          fullPath: D:\UnityDev\Game\StarWars\Assets\Scenes\Script\TriplePowerup.cs
-          projectPath: Assets\Scenes\Script\TriplePowerup.cs
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 5
-      - path: Assets\Scenes\Script\TriplePowerup.cs.meta
-        label: TriplePowerup.cs.meta
-        level: 4
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: Assets\Scenes\Script\TriplePowerup.cs.meta
-          fullPath: D:\UnityDev\Game\StarWars\Assets\Scenes\Script\TriplePowerup.cs.meta
-          projectPath: Assets\Scenes\Script\TriplePowerup.cs.meta
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 5
-      - path: Assets\Script.meta
-        label: Script.meta
-        level: 1
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: Assets\Script.meta
-          fullPath: D:\UnityDev\Game\StarWars\Assets\Script.meta
-          projectPath: Assets\Script.meta
-          originalPath: 
-          indexStatus: 1
-          workTreeStatus: 1
-      - path: Assets\Script
-        label: Script
-        level: 1
-        isFolder: 1
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: 
-          fullPath: 
-          projectPath: 
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 0
-      - path: Assets\Script\Enemy.cs
-        label: Enemy.cs
-        level: 2
-        isFolder: 0
-        isContainer: 1
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: Assets\Script\Enemy.cs
-          fullPath: D:\UnityDev\Game\StarWars\Assets\Script\Enemy.cs
-          projectPath: Assets\Script\Enemy.cs
-          originalPath: 
-          indexStatus: 1
-          workTreeStatus: 1
-      - path: Assets\Script\Enemy.cs.meta
-        label: Enemy.cs.meta
-        level: 3
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: Assets\Script\Enemy.cs.meta
-          fullPath: D:\UnityDev\Game\StarWars\Assets\Script\Enemy.cs.meta
-          projectPath: Assets\Script\Enemy.cs.meta
-          originalPath: 
-          indexStatus: 1
-          workTreeStatus: 1
-      - path: Assets\Script\GameManager.cs
-        label: GameManager.cs
-        level: 2
-        isFolder: 0
-        isContainer: 1
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: Assets\Script\GameManager.cs
-          fullPath: D:\UnityDev\Game\StarWars\Assets\Script\GameManager.cs
-          projectPath: Assets\Script\GameManager.cs
-          originalPath: 
-          indexStatus: 1
-          workTreeStatus: 1
-      - path: Assets\Script\GameManager.cs.meta
-        label: GameManager.cs.meta
-        level: 3
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: Assets\Script\GameManager.cs.meta
-          fullPath: D:\UnityDev\Game\StarWars\Assets\Script\GameManager.cs.meta
-          projectPath: Assets\Script\GameManager.cs.meta
-          originalPath: 
-          indexStatus: 1
-          workTreeStatus: 1
-      - path: Assets\Script\Laser.cs
-        label: Laser.cs
-        level: 2
-        isFolder: 0
-        isContainer: 1
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: Assets\Script\Laser.cs
-          fullPath: D:\UnityDev\Game\StarWars\Assets\Script\Laser.cs
-          projectPath: Assets\Script\Laser.cs
-          originalPath: 
-          indexStatus: 1
-          workTreeStatus: 1
-      - path: Assets\Script\Laser.cs.meta
-        label: Laser.cs.meta
-        level: 3
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: Assets\Script\Laser.cs.meta
-          fullPath: D:\UnityDev\Game\StarWars\Assets\Script\Laser.cs.meta
-          projectPath: Assets\Script\Laser.cs.meta
-          originalPath: 
-          indexStatus: 1
-          workTreeStatus: 1
-      - path: Assets\Script\MainMenu.meta
-        label: MainMenu.meta
-        level: 2
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: Assets\Script\MainMenu.meta
-          fullPath: D:\UnityDev\Game\StarWars\Assets\Script\MainMenu.meta
-          projectPath: Assets\Script\MainMenu.meta
-          originalPath: 
-          indexStatus: 1
-          workTreeStatus: 1
-      - path: Assets\Script\MainMenu
-        label: MainMenu
-        level: 2
-        isFolder: 1
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: 
-          fullPath: 
-          projectPath: 
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 0
-      - path: Assets\Script\MainMenu\MainMenu.cs
-        label: MainMenu.cs
-        level: 3
-        isFolder: 0
-        isContainer: 1
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: Assets\Script\MainMenu\MainMenu.cs
-          fullPath: D:\UnityDev\Game\StarWars\Assets\Script\MainMenu\MainMenu.cs
-          projectPath: Assets\Script\MainMenu\MainMenu.cs
-          originalPath: 
-          indexStatus: 1
-          workTreeStatus: 1
-      - path: Assets\Script\MainMenu\MainMenu.cs.meta
-        label: MainMenu.cs.meta
-        level: 4
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: Assets\Script\MainMenu\MainMenu.cs.meta
-          fullPath: D:\UnityDev\Game\StarWars\Assets\Script\MainMenu\MainMenu.cs.meta
-          projectPath: Assets\Script\MainMenu\MainMenu.cs.meta
-          originalPath: 
-          indexStatus: 1
-          workTreeStatus: 1
-      - path: Assets\Script\Player.cs
-        label: Player.cs
-        level: 2
-        isFolder: 0
-        isContainer: 1
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: Assets\Script\Player.cs
-          fullPath: D:\UnityDev\Game\StarWars\Assets\Script\Player.cs
-          projectPath: Assets\Script\Player.cs
-          originalPath: 
-          indexStatus: 1
-          workTreeStatus: 1
-      - path: Assets\Script\Player.cs.meta
-        label: Player.cs.meta
-        level: 3
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: Assets\Script\Player.cs.meta
-          fullPath: D:\UnityDev\Game\StarWars\Assets\Script\Player.cs.meta
-          projectPath: Assets\Script\Player.cs.meta
-          originalPath: 
-          indexStatus: 1
-          workTreeStatus: 1
-      - path: Assets\Script\SpawnManager.cs
-        label: SpawnManager.cs
-        level: 2
-        isFolder: 0
-        isContainer: 1
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: Assets\Script\SpawnManager.cs
-          fullPath: D:\UnityDev\Game\StarWars\Assets\Script\SpawnManager.cs
-          projectPath: Assets\Script\SpawnManager.cs
-          originalPath: 
-          indexStatus: 1
-          workTreeStatus: 1
-      - path: Assets\Script\SpawnManager.cs.meta
-        label: SpawnManager.cs.meta
-        level: 3
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: Assets\Script\SpawnManager.cs.meta
-          fullPath: D:\UnityDev\Game\StarWars\Assets\Script\SpawnManager.cs.meta
-          projectPath: Assets\Script\SpawnManager.cs.meta
-          originalPath: 
-          indexStatus: 1
-          workTreeStatus: 1
-      - path: Assets\Script\TriplePowerup.cs
-        label: TriplePowerup.cs
-        level: 2
-        isFolder: 0
-        isContainer: 1
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: Assets\Script\TriplePowerup.cs
-          fullPath: D:\UnityDev\Game\StarWars\Assets\Script\TriplePowerup.cs
-          projectPath: Assets\Script\TriplePowerup.cs
-          originalPath: 
-          indexStatus: 1
-          workTreeStatus: 1
-      - path: Assets\Script\TriplePowerup.cs.meta
-        label: TriplePowerup.cs.meta
-        level: 3
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: Assets\Script\TriplePowerup.cs.meta
-          fullPath: D:\UnityDev\Game\StarWars\Assets\Script\TriplePowerup.cs.meta
-          projectPath: Assets\Script\TriplePowerup.cs.meta
-          originalPath: 
-          indexStatus: 1
-          workTreeStatus: 1
-      - path: Assets\Script\UImanager.cs
-        label: UImanager.cs
-        level: 2
-        isFolder: 0
-        isContainer: 1
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: Assets\Script\UImanager.cs
-          fullPath: D:\UnityDev\Game\StarWars\Assets\Script\UImanager.cs
-          projectPath: Assets\Script\UImanager.cs
-          originalPath: 
-          indexStatus: 1
-          workTreeStatus: 1
-      - path: Assets\Script\UImanager.cs.meta
-        label: UImanager.cs.meta
-        level: 3
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: Assets\Script\UImanager.cs.meta
-          fullPath: D:\UnityDev\Game\StarWars\Assets\Script\UImanager.cs.meta
-          projectPath: Assets\Script\UImanager.cs.meta
-          originalPath: 
-          indexStatus: 1
-          workTreeStatus: 1
       - path: Library
         label: Library
         level: 0
@@ -2634,7 +1231,7 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 2
+        checkState: 0
         isLocked: 0
         gitStatusEntry:
           path: 
@@ -2652,7 +1249,7 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 1
+        checkState: 0
         isLocked: 0
         gitStatusEntry:
           path: Library\assetDatabase3
@@ -2661,8 +1258,8 @@ MonoBehaviour:
           originalPath: 
           indexStatus: 0
           workTreeStatus: 3
-      - path: Library\CurrentLayout.dwlt
-        label: CurrentLayout.dwlt
+      - path: Library\CrashedAssetImports.txt
+        label: CrashedAssetImports.txt
         level: 1
         isFolder: 0
         isContainer: 0
@@ -2670,15 +1267,15 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 1
+        checkState: 0
         isLocked: 0
         gitStatusEntry:
-          path: Library\CurrentLayout.dwlt
-          fullPath: D:\UnityDev\Game\StarWars\Library\CurrentLayout.dwlt
-          projectPath: Library\CurrentLayout.dwlt
+          path: Library\CrashedAssetImports.txt
+          fullPath: D:\UnityDev\Game\StarWars\Library\CrashedAssetImports.txt
+          projectPath: Library\CrashedAssetImports.txt
           originalPath: 
-          indexStatus: 0
-          workTreeStatus: 3
+          indexStatus: 1
+          workTreeStatus: 1
       - path: Library\EditorInstance.json
         label: EditorInstance.json
         level: 1
@@ -2688,51 +1285,15 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 1
+        checkState: 0
         isLocked: 0
         gitStatusEntry:
           path: Library\EditorInstance.json
           fullPath: D:\UnityDev\Game\StarWars\Library\EditorInstance.json
           projectPath: Library\EditorInstance.json
           originalPath: 
-          indexStatus: 0
-          workTreeStatus: 3
-      - path: Library\EditorUserBuildSettings.asset
-        label: EditorUserBuildSettings.asset
-        level: 1
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: Library\EditorUserBuildSettings.asset
-          fullPath: D:\UnityDev\Game\StarWars\Library\EditorUserBuildSettings.asset
-          projectPath: Library\EditorUserBuildSettings.asset
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 3
-      - path: Library\expandedItems
-        label: expandedItems
-        level: 1
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: Library\expandedItems
-          fullPath: D:\UnityDev\Game\StarWars\Library\expandedItems
-          projectPath: Library\expandedItems
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 3
+          indexStatus: 1
+          workTreeStatus: 1
       - path: Library\gfu
         label: gfu
         level: 1
@@ -2742,7 +1303,7 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 2
+        checkState: 0
         isLocked: 0
         gitStatusEntry:
           path: 
@@ -2760,7 +1321,7 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 2
+        checkState: 0
         isLocked: 0
         gitStatusEntry:
           path: 
@@ -2769,60 +1330,6 @@ MonoBehaviour:
           originalPath: 
           indexStatus: 0
           workTreeStatus: 0
-      - path: Library\gfu\cache\branches.yaml
-        label: branches.yaml
-        level: 3
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: Library\gfu\cache\branches.yaml
-          fullPath: D:\UnityDev\Game\StarWars\Library\gfu\cache\branches.yaml
-          projectPath: Library\gfu\cache\branches.yaml
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 3
-      - path: Library\gfu\cache\gitlocks.yaml
-        label: gitlocks.yaml
-        level: 3
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: Library\gfu\cache\gitlocks.yaml
-          fullPath: D:\UnityDev\Game\StarWars\Library\gfu\cache\gitlocks.yaml
-          projectPath: Library\gfu\cache\gitlocks.yaml
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 3
-      - path: Library\gfu\cache\gitlog.yaml
-        label: gitlog.yaml
-        level: 3
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: Library\gfu\cache\gitlog.yaml
-          fullPath: D:\UnityDev\Game\StarWars\Library\gfu\cache\gitlog.yaml
-          projectPath: Library\gfu\cache\gitlog.yaml
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 3
       - path: Library\gfu\cache\gitstatusentries.yaml
         label: gitstatusentries.yaml
         level: 3
@@ -2832,7 +1339,7 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 1
+        checkState: 0
         isLocked: 0
         gitStatusEntry:
           path: Library\gfu\cache\gitstatusentries.yaml
@@ -2850,30 +1357,12 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 1
+        checkState: 0
         isLocked: 0
         gitStatusEntry:
           path: Library\gfu\cache\gittrackingstatus.yaml
           fullPath: D:\UnityDev\Game\StarWars\Library\gfu\cache\gittrackingstatus.yaml
           projectPath: Library\gfu\cache\gittrackingstatus.yaml
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 3
-      - path: Library\gfu\cache\gituser.yaml
-        label: gituser.yaml
-        level: 3
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 0
-        isLocked: 0
-        gitStatusEntry:
-          path: Library\gfu\cache\gituser.yaml
-          fullPath: D:\UnityDev\Game\StarWars\Library\gfu\cache\gituser.yaml
-          projectPath: Library\gfu\cache\gituser.yaml
           originalPath: 
           indexStatus: 0
           workTreeStatus: 3
@@ -2886,30 +1375,12 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 1
+        checkState: 0
         isLocked: 0
         gitStatusEntry:
           path: Library\gfu\cache\repoinfo.yaml
           fullPath: D:\UnityDev\Game\StarWars\Library\gfu\cache\repoinfo.yaml
           projectPath: Library\gfu\cache\repoinfo.yaml
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 3
-      - path: Library\InspectorExpandedItems.asset
-        label: InspectorExpandedItems.asset
-        level: 1
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: Library\InspectorExpandedItems.asset
-          fullPath: D:\UnityDev\Game\StarWars\Library\InspectorExpandedItems.asset
-          projectPath: Library\InspectorExpandedItems.asset
           originalPath: 
           indexStatus: 0
           workTreeStatus: 3
@@ -2922,7 +1393,7 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 1
+        checkState: 0
         isLocked: 0
         gitStatusEntry:
           path: 
@@ -2931,8 +1402,8 @@ MonoBehaviour:
           originalPath: 
           indexStatus: 0
           workTreeStatus: 0
-      - path: Library\metadata\04
-        label: 04
+      - path: Library\metadata\0c
+        label: 0c
         level: 2
         isFolder: 1
         isContainer: 0
@@ -2940,7 +1411,7 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 1
+        checkState: 0
         isLocked: 0
         gitStatusEntry:
           path: 
@@ -2949,8 +1420,8 @@ MonoBehaviour:
           originalPath: 
           indexStatus: 0
           workTreeStatus: 0
-      - path: Library\metadata\04\045b38d46db53c0498aabc19685420c8
-        label: 045b38d46db53c0498aabc19685420c8
+      - path: Library\metadata\0c\0cfea1d9f4f1a194c8e1a266c4cb9c40
+        label: 0cfea1d9f4f1a194c8e1a266c4cb9c40
         level: 3
         isFolder: 0
         isContainer: 0
@@ -2958,17 +1429,17 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 1
+        checkState: 0
         isLocked: 0
         gitStatusEntry:
-          path: Library\metadata\04\045b38d46db53c0498aabc19685420c8
-          fullPath: D:\UnityDev\Game\StarWars\Library\metadata\04\045b38d46db53c0498aabc19685420c8
-          projectPath: Library\metadata\04\045b38d46db53c0498aabc19685420c8
+          path: Library\metadata\0c\0cfea1d9f4f1a194c8e1a266c4cb9c40
+          fullPath: D:\UnityDev\Game\StarWars\Library\metadata\0c\0cfea1d9f4f1a194c8e1a266c4cb9c40
+          projectPath: Library\metadata\0c\0cfea1d9f4f1a194c8e1a266c4cb9c40
           originalPath: 
-          indexStatus: 0
-          workTreeStatus: 5
-      - path: Library\metadata\04\045b38d46db53c0498aabc19685420c8.info
-        label: 045b38d46db53c0498aabc19685420c8.info
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Library\metadata\0c\0cfea1d9f4f1a194c8e1a266c4cb9c40.info
+        label: 0cfea1d9f4f1a194c8e1a266c4cb9c40.info
         level: 3
         isFolder: 0
         isContainer: 0
@@ -2976,17 +1447,17 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 1
+        checkState: 0
         isLocked: 0
         gitStatusEntry:
-          path: Library\metadata\04\045b38d46db53c0498aabc19685420c8.info
-          fullPath: D:\UnityDev\Game\StarWars\Library\metadata\04\045b38d46db53c0498aabc19685420c8.info
-          projectPath: Library\metadata\04\045b38d46db53c0498aabc19685420c8.info
+          path: Library\metadata\0c\0cfea1d9f4f1a194c8e1a266c4cb9c40.info
+          fullPath: D:\UnityDev\Game\StarWars\Library\metadata\0c\0cfea1d9f4f1a194c8e1a266c4cb9c40.info
+          projectPath: Library\metadata\0c\0cfea1d9f4f1a194c8e1a266c4cb9c40.info
           originalPath: 
-          indexStatus: 0
-          workTreeStatus: 5
-      - path: Library\metadata\10
-        label: 10
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Library\metadata\c1
+        label: c1
         level: 2
         isFolder: 1
         isContainer: 0
@@ -2994,7 +1465,7 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 1
+        checkState: 0
         isLocked: 0
         gitStatusEntry:
           path: 
@@ -3003,8 +1474,8 @@ MonoBehaviour:
           originalPath: 
           indexStatus: 0
           workTreeStatus: 0
-      - path: Library\metadata\10\10659af3cbde4f14e8ba58097df3a044
-        label: 10659af3cbde4f14e8ba58097df3a044
+      - path: Library\metadata\c1\c1f8a29cf58dec14393af8762850f741
+        label: c1f8a29cf58dec14393af8762850f741
         level: 3
         isFolder: 0
         isContainer: 0
@@ -3012,179 +1483,17 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 1
+        checkState: 0
         isLocked: 0
         gitStatusEntry:
-          path: Library\metadata\10\10659af3cbde4f14e8ba58097df3a044
-          fullPath: D:\UnityDev\Game\StarWars\Library\metadata\10\10659af3cbde4f14e8ba58097df3a044
-          projectPath: Library\metadata\10\10659af3cbde4f14e8ba58097df3a044
-          originalPath: 
-          indexStatus: 1
-          workTreeStatus: 1
-      - path: Library\metadata\10\10659af3cbde4f14e8ba58097df3a044.info
-        label: 10659af3cbde4f14e8ba58097df3a044.info
-        level: 3
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: Library\metadata\10\10659af3cbde4f14e8ba58097df3a044.info
-          fullPath: D:\UnityDev\Game\StarWars\Library\metadata\10\10659af3cbde4f14e8ba58097df3a044.info
-          projectPath: Library\metadata\10\10659af3cbde4f14e8ba58097df3a044.info
-          originalPath: 
-          indexStatus: 1
-          workTreeStatus: 1
-      - path: Library\metadata\36
-        label: 36
-        level: 2
-        isFolder: 1
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: 
-          fullPath: 
-          projectPath: 
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 0
-      - path: Library\metadata\36\364a0de5919ae6940a4b55cf24850204
-        label: 364a0de5919ae6940a4b55cf24850204
-        level: 3
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: Library\metadata\36\364a0de5919ae6940a4b55cf24850204
-          fullPath: D:\UnityDev\Game\StarWars\Library\metadata\36\364a0de5919ae6940a4b55cf24850204
-          projectPath: Library\metadata\36\364a0de5919ae6940a4b55cf24850204
-          originalPath: 
-          indexStatus: 1
-          workTreeStatus: 1
-      - path: Library\metadata\36\364a0de5919ae6940a4b55cf24850204.info
-        label: 364a0de5919ae6940a4b55cf24850204.info
-        level: 3
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: Library\metadata\36\364a0de5919ae6940a4b55cf24850204.info
-          fullPath: D:\UnityDev\Game\StarWars\Library\metadata\36\364a0de5919ae6940a4b55cf24850204.info
-          projectPath: Library\metadata\36\364a0de5919ae6940a4b55cf24850204.info
-          originalPath: 
-          indexStatus: 1
-          workTreeStatus: 1
-      - path: Library\metadata\38
-        label: 38
-        level: 2
-        isFolder: 1
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: 
-          fullPath: 
-          projectPath: 
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 0
-      - path: Library\metadata\38\381a2be40571978429dd42f65146724e
-        label: 381a2be40571978429dd42f65146724e
-        level: 3
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: Library\metadata\38\381a2be40571978429dd42f65146724e
-          fullPath: D:\UnityDev\Game\StarWars\Library\metadata\38\381a2be40571978429dd42f65146724e
-          projectPath: Library\metadata\38\381a2be40571978429dd42f65146724e
-          originalPath: 
-          indexStatus: 1
-          workTreeStatus: 1
-      - path: Library\metadata\38\381a2be40571978429dd42f65146724e.info
-        label: 381a2be40571978429dd42f65146724e.info
-        level: 3
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: Library\metadata\38\381a2be40571978429dd42f65146724e.info
-          fullPath: D:\UnityDev\Game\StarWars\Library\metadata\38\381a2be40571978429dd42f65146724e.info
-          projectPath: Library\metadata\38\381a2be40571978429dd42f65146724e.info
-          originalPath: 
-          indexStatus: 1
-          workTreeStatus: 1
-      - path: Library\metadata\39
-        label: 39
-        level: 2
-        isFolder: 1
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: 
-          fullPath: 
-          projectPath: 
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 0
-      - path: Library\metadata\39\39aa58d4f2863a8428b1cedd6dad144d
-        label: 39aa58d4f2863a8428b1cedd6dad144d
-        level: 3
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: Library\metadata\39\39aa58d4f2863a8428b1cedd6dad144d
-          fullPath: D:\UnityDev\Game\StarWars\Library\metadata\39\39aa58d4f2863a8428b1cedd6dad144d
-          projectPath: Library\metadata\39\39aa58d4f2863a8428b1cedd6dad144d
+          path: Library\metadata\c1\c1f8a29cf58dec14393af8762850f741
+          fullPath: D:\UnityDev\Game\StarWars\Library\metadata\c1\c1f8a29cf58dec14393af8762850f741
+          projectPath: Library\metadata\c1\c1f8a29cf58dec14393af8762850f741
           originalPath: 
           indexStatus: 0
           workTreeStatus: 3
-      - path: Library\metadata\39\39aa58d4f2863a8428b1cedd6dad144d.info
-        label: 39aa58d4f2863a8428b1cedd6dad144d.info
+      - path: Library\metadata\c1\c1f8a29cf58dec14393af8762850f741.info
+        label: c1f8a29cf58dec14393af8762850f741.info
         level: 3
         isFolder: 0
         isContainer: 0
@@ -3192,17 +1501,17 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 1
+        checkState: 0
         isLocked: 0
         gitStatusEntry:
-          path: Library\metadata\39\39aa58d4f2863a8428b1cedd6dad144d.info
-          fullPath: D:\UnityDev\Game\StarWars\Library\metadata\39\39aa58d4f2863a8428b1cedd6dad144d.info
-          projectPath: Library\metadata\39\39aa58d4f2863a8428b1cedd6dad144d.info
+          path: Library\metadata\c1\c1f8a29cf58dec14393af8762850f741.info
+          fullPath: D:\UnityDev\Game\StarWars\Library\metadata\c1\c1f8a29cf58dec14393af8762850f741.info
+          projectPath: Library\metadata\c1\c1f8a29cf58dec14393af8762850f741.info
           originalPath: 
           indexStatus: 0
           workTreeStatus: 3
-      - path: Library\metadata\43
-        label: 43
+      - path: Library\metadata\c3
+        label: c3
         level: 2
         isFolder: 1
         isContainer: 0
@@ -3210,7 +1519,7 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 1
+        checkState: 0
         isLocked: 0
         gitStatusEntry:
           path: 
@@ -3219,8 +1528,8 @@ MonoBehaviour:
           originalPath: 
           indexStatus: 0
           workTreeStatus: 0
-      - path: Library\metadata\43\439a0fa347ea0db4fbb353b85e1e755b
-        label: 439a0fa347ea0db4fbb353b85e1e755b
+      - path: Library\metadata\c3\c3f9daffb08551b44a59cc40544ec882
+        label: c3f9daffb08551b44a59cc40544ec882
         level: 3
         isFolder: 0
         isContainer: 0
@@ -3228,17 +1537,17 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 1
+        checkState: 0
         isLocked: 0
         gitStatusEntry:
-          path: Library\metadata\43\439a0fa347ea0db4fbb353b85e1e755b
-          fullPath: D:\UnityDev\Game\StarWars\Library\metadata\43\439a0fa347ea0db4fbb353b85e1e755b
-          projectPath: Library\metadata\43\439a0fa347ea0db4fbb353b85e1e755b
+          path: Library\metadata\c3\c3f9daffb08551b44a59cc40544ec882
+          fullPath: D:\UnityDev\Game\StarWars\Library\metadata\c3\c3f9daffb08551b44a59cc40544ec882
+          projectPath: Library\metadata\c3\c3f9daffb08551b44a59cc40544ec882
           originalPath: 
           indexStatus: 1
           workTreeStatus: 1
-      - path: Library\metadata\43\439a0fa347ea0db4fbb353b85e1e755b.info
-        label: 439a0fa347ea0db4fbb353b85e1e755b.info
+      - path: Library\metadata\c3\c3f9daffb08551b44a59cc40544ec882.info
+        label: c3f9daffb08551b44a59cc40544ec882.info
         level: 3
         isFolder: 0
         isContainer: 0
@@ -3246,552 +1555,12 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 1
+        checkState: 0
         isLocked: 0
         gitStatusEntry:
-          path: Library\metadata\43\439a0fa347ea0db4fbb353b85e1e755b.info
-          fullPath: D:\UnityDev\Game\StarWars\Library\metadata\43\439a0fa347ea0db4fbb353b85e1e755b.info
-          projectPath: Library\metadata\43\439a0fa347ea0db4fbb353b85e1e755b.info
-          originalPath: 
-          indexStatus: 1
-          workTreeStatus: 1
-      - path: Library\metadata\ab
-        label: ab
-        level: 2
-        isFolder: 1
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: 
-          fullPath: 
-          projectPath: 
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 0
-      - path: Library\metadata\ab\abc353fc32d39654a8c21acc69a34cea
-        label: abc353fc32d39654a8c21acc69a34cea
-        level: 3
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: Library\metadata\ab\abc353fc32d39654a8c21acc69a34cea
-          fullPath: D:\UnityDev\Game\StarWars\Library\metadata\ab\abc353fc32d39654a8c21acc69a34cea
-          projectPath: Library\metadata\ab\abc353fc32d39654a8c21acc69a34cea
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 3
-      - path: Library\metadata\ab\abc353fc32d39654a8c21acc69a34cea.info
-        label: abc353fc32d39654a8c21acc69a34cea.info
-        level: 3
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: Library\metadata\ab\abc353fc32d39654a8c21acc69a34cea.info
-          fullPath: D:\UnityDev\Game\StarWars\Library\metadata\ab\abc353fc32d39654a8c21acc69a34cea.info
-          projectPath: Library\metadata\ab\abc353fc32d39654a8c21acc69a34cea.info
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 3
-      - path: Library\metadata\ac
-        label: ac
-        level: 2
-        isFolder: 1
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: 
-          fullPath: 
-          projectPath: 
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 0
-      - path: Library\metadata\ac\ac21d9bd213d63e43bd473451e04fd99
-        label: ac21d9bd213d63e43bd473451e04fd99
-        level: 3
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: Library\metadata\ac\ac21d9bd213d63e43bd473451e04fd99
-          fullPath: D:\UnityDev\Game\StarWars\Library\metadata\ac\ac21d9bd213d63e43bd473451e04fd99
-          projectPath: Library\metadata\ac\ac21d9bd213d63e43bd473451e04fd99
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 3
-      - path: Library\metadata\ac\ac21d9bd213d63e43bd473451e04fd99.info
-        label: ac21d9bd213d63e43bd473451e04fd99.info
-        level: 3
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: Library\metadata\ac\ac21d9bd213d63e43bd473451e04fd99.info
-          fullPath: D:\UnityDev\Game\StarWars\Library\metadata\ac\ac21d9bd213d63e43bd473451e04fd99.info
-          projectPath: Library\metadata\ac\ac21d9bd213d63e43bd473451e04fd99.info
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 3
-      - path: Library\metadata\c2
-        label: c2
-        level: 2
-        isFolder: 1
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: 
-          fullPath: 
-          projectPath: 
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 0
-      - path: Library\metadata\c2\c21e59a99633e7e4cb1ca079de63e66e
-        label: c21e59a99633e7e4cb1ca079de63e66e
-        level: 3
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: Library\metadata\c2\c21e59a99633e7e4cb1ca079de63e66e
-          fullPath: D:\UnityDev\Game\StarWars\Library\metadata\c2\c21e59a99633e7e4cb1ca079de63e66e
-          projectPath: Library\metadata\c2\c21e59a99633e7e4cb1ca079de63e66e
-          originalPath: 
-          indexStatus: 1
-          workTreeStatus: 1
-      - path: Library\metadata\c2\c21e59a99633e7e4cb1ca079de63e66e.info
-        label: c21e59a99633e7e4cb1ca079de63e66e.info
-        level: 3
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: Library\metadata\c2\c21e59a99633e7e4cb1ca079de63e66e.info
-          fullPath: D:\UnityDev\Game\StarWars\Library\metadata\c2\c21e59a99633e7e4cb1ca079de63e66e.info
-          projectPath: Library\metadata\c2\c21e59a99633e7e4cb1ca079de63e66e.info
-          originalPath: 
-          indexStatus: 1
-          workTreeStatus: 1
-      - path: Library\metadata\d9
-        label: d9
-        level: 2
-        isFolder: 1
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: 
-          fullPath: 
-          projectPath: 
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 0
-      - path: Library\metadata\d9\d94431b0d6c2658418d6ab670fc2b9ac
-        label: d94431b0d6c2658418d6ab670fc2b9ac
-        level: 3
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: Library\metadata\d9\d94431b0d6c2658418d6ab670fc2b9ac
-          fullPath: D:\UnityDev\Game\StarWars\Library\metadata\d9\d94431b0d6c2658418d6ab670fc2b9ac
-          projectPath: Library\metadata\d9\d94431b0d6c2658418d6ab670fc2b9ac
-          originalPath: 
-          indexStatus: 1
-          workTreeStatus: 1
-      - path: Library\metadata\d9\d94431b0d6c2658418d6ab670fc2b9ac.info
-        label: d94431b0d6c2658418d6ab670fc2b9ac.info
-        level: 3
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: Library\metadata\d9\d94431b0d6c2658418d6ab670fc2b9ac.info
-          fullPath: D:\UnityDev\Game\StarWars\Library\metadata\d9\d94431b0d6c2658418d6ab670fc2b9ac.info
-          projectPath: Library\metadata\d9\d94431b0d6c2658418d6ab670fc2b9ac.info
-          originalPath: 
-          indexStatus: 1
-          workTreeStatus: 1
-      - path: Library\metadata\ef
-        label: ef
-        level: 2
-        isFolder: 1
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: 
-          fullPath: 
-          projectPath: 
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 0
-      - path: Library\metadata\ef\ef202204f48f89241bcdc9b7f473667e
-        label: ef202204f48f89241bcdc9b7f473667e
-        level: 3
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: Library\metadata\ef\ef202204f48f89241bcdc9b7f473667e
-          fullPath: D:\UnityDev\Game\StarWars\Library\metadata\ef\ef202204f48f89241bcdc9b7f473667e
-          projectPath: Library\metadata\ef\ef202204f48f89241bcdc9b7f473667e
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 3
-      - path: Library\metadata\ef\ef202204f48f89241bcdc9b7f473667e.info
-        label: ef202204f48f89241bcdc9b7f473667e.info
-        level: 3
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: Library\metadata\ef\ef202204f48f89241bcdc9b7f473667e.info
-          fullPath: D:\UnityDev\Game\StarWars\Library\metadata\ef\ef202204f48f89241bcdc9b7f473667e.info
-          projectPath: Library\metadata\ef\ef202204f48f89241bcdc9b7f473667e.info
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 3
-      - path: Library\metadata\f5
-        label: f5
-        level: 2
-        isFolder: 1
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: 
-          fullPath: 
-          projectPath: 
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 0
-      - path: Library\metadata\f5\f5df2bdf8f401a4429139828070ea27b
-        label: f5df2bdf8f401a4429139828070ea27b
-        level: 3
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: Library\metadata\f5\f5df2bdf8f401a4429139828070ea27b
-          fullPath: D:\UnityDev\Game\StarWars\Library\metadata\f5\f5df2bdf8f401a4429139828070ea27b
-          projectPath: Library\metadata\f5\f5df2bdf8f401a4429139828070ea27b
-          originalPath: 
-          indexStatus: 1
-          workTreeStatus: 1
-      - path: Library\metadata\f5\f5df2bdf8f401a4429139828070ea27b.info
-        label: f5df2bdf8f401a4429139828070ea27b.info
-        level: 3
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: Library\metadata\f5\f5df2bdf8f401a4429139828070ea27b.info
-          fullPath: D:\UnityDev\Game\StarWars\Library\metadata\f5\f5df2bdf8f401a4429139828070ea27b.info
-          projectPath: Library\metadata\f5\f5df2bdf8f401a4429139828070ea27b.info
-          originalPath: 
-          indexStatus: 1
-          workTreeStatus: 1
-      - path: Library\metadata\fb
-        label: fb
-        level: 2
-        isFolder: 1
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: 
-          fullPath: 
-          projectPath: 
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 0
-      - path: Library\metadata\fb\fb3a3a06809c1f443a09d2304b707ae1
-        label: fb3a3a06809c1f443a09d2304b707ae1
-        level: 3
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: Library\metadata\fb\fb3a3a06809c1f443a09d2304b707ae1
-          fullPath: D:\UnityDev\Game\StarWars\Library\metadata\fb\fb3a3a06809c1f443a09d2304b707ae1
-          projectPath: Library\metadata\fb\fb3a3a06809c1f443a09d2304b707ae1
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 3
-      - path: Library\metadata\fb\fb3a3a06809c1f443a09d2304b707ae1.info
-        label: fb3a3a06809c1f443a09d2304b707ae1.info
-        level: 3
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: Library\metadata\fb\fb3a3a06809c1f443a09d2304b707ae1.info
-          fullPath: D:\UnityDev\Game\StarWars\Library\metadata\fb\fb3a3a06809c1f443a09d2304b707ae1.info
-          projectPath: Library\metadata\fb\fb3a3a06809c1f443a09d2304b707ae1.info
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 3
-      - path: Library\metadata\fb\fb9c95670312c2e4fbe8c650cd7a0977
-        label: fb9c95670312c2e4fbe8c650cd7a0977
-        level: 3
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: Library\metadata\fb\fb9c95670312c2e4fbe8c650cd7a0977
-          fullPath: D:\UnityDev\Game\StarWars\Library\metadata\fb\fb9c95670312c2e4fbe8c650cd7a0977
-          projectPath: Library\metadata\fb\fb9c95670312c2e4fbe8c650cd7a0977
-          originalPath: 
-          indexStatus: 1
-          workTreeStatus: 1
-      - path: Library\metadata\fb\fb9c95670312c2e4fbe8c650cd7a0977.info
-        label: fb9c95670312c2e4fbe8c650cd7a0977.info
-        level: 3
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: Library\metadata\fb\fb9c95670312c2e4fbe8c650cd7a0977.info
-          fullPath: D:\UnityDev\Game\StarWars\Library\metadata\fb\fb9c95670312c2e4fbe8c650cd7a0977.info
-          projectPath: Library\metadata\fb\fb9c95670312c2e4fbe8c650cd7a0977.info
-          originalPath: 
-          indexStatus: 1
-          workTreeStatus: 1
-      - path: Library\ScriptAssemblies
-        label: ScriptAssemblies
-        level: 1
-        isFolder: 1
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: 
-          fullPath: 
-          projectPath: 
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 0
-      - path: Library\ScriptAssemblies\Assembly-CSharp.dll
-        label: Assembly-CSharp.dll
-        level: 2
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: Library\ScriptAssemblies\Assembly-CSharp.dll
-          fullPath: D:\UnityDev\Game\StarWars\Library\ScriptAssemblies\Assembly-CSharp.dll
-          projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 3
-      - path: Library\ScriptAssemblies\Assembly-CSharp.pdb
-        label: Assembly-CSharp.pdb
-        level: 2
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: Library\ScriptAssemblies\Assembly-CSharp.pdb
-          fullPath: D:\UnityDev\Game\StarWars\Library\ScriptAssemblies\Assembly-CSharp.pdb
-          projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 3
-      - path: Library\ShaderCache
-        label: ShaderCache
-        level: 1
-        isFolder: 1
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: 
-          fullPath: 
-          projectPath: 
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 0
-      - path: Library\ShaderCache\3
-        label: 3
-        level: 2
-        isFolder: 1
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: 
-          fullPath: 
-          projectPath: 
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 0
-      - path: Library\ShaderCache\3\36835570c210b2db7909bc55db3ba5b3.bin
-        label: 36835570c210b2db7909bc55db3ba5b3.bin
-        level: 3
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: Library\ShaderCache\3\36835570c210b2db7909bc55db3ba5b3.bin
-          fullPath: D:\UnityDev\Game\StarWars\Library\ShaderCache\3\36835570c210b2db7909bc55db3ba5b3.bin
-          projectPath: Library\ShaderCache\3\36835570c210b2db7909bc55db3ba5b3.bin
-          originalPath: 
-          indexStatus: 1
-          workTreeStatus: 1
-      - path: Library\ShaderCache\3\3de55510e0661a2487c5f089fe72fc75.bin
-        label: 3de55510e0661a2487c5f089fe72fc75.bin
-        level: 3
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: Library\ShaderCache\3\3de55510e0661a2487c5f089fe72fc75.bin
-          fullPath: D:\UnityDev\Game\StarWars\Library\ShaderCache\3\3de55510e0661a2487c5f089fe72fc75.bin
-          projectPath: Library\ShaderCache\3\3de55510e0661a2487c5f089fe72fc75.bin
+          path: Library\metadata\c3\c3f9daffb08551b44a59cc40544ec882.info
+          fullPath: D:\UnityDev\Game\StarWars\Library\metadata\c3\c3f9daffb08551b44a59cc40544ec882.info
+          projectPath: Library\metadata\c3\c3f9daffb08551b44a59cc40544ec882.info
           originalPath: 
           indexStatus: 1
           workTreeStatus: 1
@@ -3804,7 +1573,7 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 1
+        checkState: 0
         isLocked: 0
         gitStatusEntry:
           path: Library\shadercompiler-UnityShaderCompiler.exe0.log
@@ -3822,7 +1591,7 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 1
+        checkState: 0
         isLocked: 0
         gitStatusEntry:
           path: 
@@ -3840,7 +1609,7 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 1
+        checkState: 0
         isLocked: 0
         gitStatusEntry:
           path: 
@@ -3858,7 +1627,7 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 1
+        checkState: 0
         isLocked: 0
         gitStatusEntry:
           path: Library\StateCache\Hierarchy\5b214b-mainStage.json
@@ -3867,186 +1636,6 @@ MonoBehaviour:
           originalPath: 
           indexStatus: 0
           workTreeStatus: 3
-      - path: Library\StateCache\SceneView
-        label: SceneView
-        level: 2
-        isFolder: 1
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: 
-          fullPath: 
-          projectPath: 
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 0
-      - path: Library\StateCache\SceneView\4212a7-mainStage.json
-        label: 4212a7-mainStage.json
-        level: 3
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: Library\StateCache\SceneView\4212a7-mainStage.json
-          fullPath: D:\UnityDev\Game\StarWars\Library\StateCache\SceneView\4212a7-mainStage.json
-          projectPath: Library\StateCache\SceneView\4212a7-mainStage.json
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 3
-      - path: obj
-        label: obj
-        level: 0
-        isFolder: 1
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: 
-          fullPath: 
-          projectPath: 
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 0
-      - path: obj\Debug
-        label: Debug
-        level: 1
-        isFolder: 1
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: 
-          fullPath: 
-          projectPath: 
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 0
-      - path: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
-        label: Assembly-CSharp.csprojAssemblyReference.cache
-        level: 2
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
-          fullPath: D:\UnityDev\Game\StarWars\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
-          projectPath: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 3
-      - path: obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
-        label: Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
-        level: 2
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
-          fullPath: D:\UnityDev\Game\StarWars\obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
-          projectPath: obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
-          originalPath: 
-          indexStatus: 1
-          workTreeStatus: 1
-      - path: obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
-        label: DesignTimeResolveAssemblyReferencesInput.cache
-        level: 2
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
-          fullPath: D:\UnityDev\Game\StarWars\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
-          projectPath: obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 3
-      - path: ProjectSettings
-        label: ProjectSettings
-        level: 0
-        isFolder: 1
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: 
-          fullPath: 
-          projectPath: 
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 0
-      - path: ProjectSettings\EditorBuildSettings.asset
-        label: EditorBuildSettings.asset
-        level: 1
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: ProjectSettings\EditorBuildSettings.asset
-          fullPath: D:\UnityDev\Game\StarWars\ProjectSettings\EditorBuildSettings.asset
-          projectPath: ProjectSettings\EditorBuildSettings.asset
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 3
-      - path: StarWars.sln
-        label: StarWars.sln
-        level: 0
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: StarWars.sln
-          fullPath: D:\UnityDev\Game\StarWars\StarWars.sln
-          projectPath: StarWars.sln
-          originalPath: 
-          indexStatus: 1
-          workTreeStatus: 1
       - path: Temp
         label: Temp
         level: 0
@@ -4056,7 +1645,7 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 1
+        checkState: 0
         isLocked: 0
         gitStatusEntry:
           path: 
@@ -4065,42 +1654,6 @@ MonoBehaviour:
           originalPath: 
           indexStatus: 0
           workTreeStatus: 0
-      - path: Temp\__Backupscenes
-        label: __Backupscenes
-        level: 1
-        isFolder: 1
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: 
-          fullPath: 
-          projectPath: 
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 0
-      - path: Temp\__Backupscenes\0.backup
-        label: 0.backup
-        level: 2
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: Temp\__Backupscenes\0.backup
-          fullPath: D:\UnityDev\Game\StarWars\Temp\__Backupscenes\0.backup
-          projectPath: Temp\__Backupscenes\0.backup
-          originalPath: 
-          indexStatus: 1
-          workTreeStatus: 1
       - path: Temp\ProcessJobs
         label: ProcessJobs
         level: 1
@@ -4110,7 +1663,7 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 1
+        checkState: 0
         isLocked: 0
         gitStatusEntry:
           path: 
@@ -4128,30 +1681,12 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 1
+        checkState: 0
         isLocked: 0
         gitStatusEntry:
           path: Temp\ProcessJobs\2992039c52923dad903a8c0db934f209.bakert
           fullPath: D:\UnityDev\Game\StarWars\Temp\ProcessJobs\2992039c52923dad903a8c0db934f209.bakert
           projectPath: Temp\ProcessJobs\2992039c52923dad903a8c0db934f209.bakert
-          originalPath: 
-          indexStatus: 1
-          workTreeStatus: 1
-      - path: Temp\ProcessJobs\45b2d24db5322d79cda5d8b11efaf2e8.bakert
-        label: 45b2d24db5322d79cda5d8b11efaf2e8.bakert
-        level: 2
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: Temp\ProcessJobs\45b2d24db5322d79cda5d8b11efaf2e8.bakert
-          fullPath: D:\UnityDev\Game\StarWars\Temp\ProcessJobs\45b2d24db5322d79cda5d8b11efaf2e8.bakert
-          projectPath: Temp\ProcessJobs\45b2d24db5322d79cda5d8b11efaf2e8.bakert
           originalPath: 
           indexStatus: 1
           workTreeStatus: 1
@@ -4164,7 +1699,7 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 1
+        checkState: 0
         isLocked: 0
         gitStatusEntry:
           path: Temp\ProcessJobs\e9a6970f79cd12d8b075e7d72f1b07cb.bakert
@@ -4182,264 +1717,12 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 1
+        checkState: 0
         isLocked: 0
         gitStatusEntry:
           path: Temp\UnityLockfile
           fullPath: D:\UnityDev\Game\StarWars\Temp\UnityLockfile
           projectPath: Temp\UnityLockfile
-          originalPath: 
-          indexStatus: 1
-          workTreeStatus: 1
-      - path: Temp\UnityTempFile-0633efdff48cbd143b0b1d6e53ca4621
-        label: UnityTempFile-0633efdff48cbd143b0b1d6e53ca4621
-        level: 1
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: Temp\UnityTempFile-0633efdff48cbd143b0b1d6e53ca4621
-          fullPath: D:\UnityDev\Game\StarWars\Temp\UnityTempFile-0633efdff48cbd143b0b1d6e53ca4621
-          projectPath: Temp\UnityTempFile-0633efdff48cbd143b0b1d6e53ca4621
-          originalPath: 
-          indexStatus: 1
-          workTreeStatus: 1
-      - path: Temp\UnityTempFile-2862adc44954d3940a4b82745514e4ec
-        label: UnityTempFile-2862adc44954d3940a4b82745514e4ec
-        level: 1
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: Temp\UnityTempFile-2862adc44954d3940a4b82745514e4ec
-          fullPath: D:\UnityDev\Game\StarWars\Temp\UnityTempFile-2862adc44954d3940a4b82745514e4ec
-          projectPath: Temp\UnityTempFile-2862adc44954d3940a4b82745514e4ec
-          originalPath: 
-          indexStatus: 1
-          workTreeStatus: 1
-      - path: Temp\UnityTempFile-35237fa8eca79094ab3b9e3c5e3c7f57
-        label: UnityTempFile-35237fa8eca79094ab3b9e3c5e3c7f57
-        level: 1
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: Temp\UnityTempFile-35237fa8eca79094ab3b9e3c5e3c7f57
-          fullPath: D:\UnityDev\Game\StarWars\Temp\UnityTempFile-35237fa8eca79094ab3b9e3c5e3c7f57
-          projectPath: Temp\UnityTempFile-35237fa8eca79094ab3b9e3c5e3c7f57
-          originalPath: 
-          indexStatus: 1
-          workTreeStatus: 1
-      - path: Temp\UnityTempFile-417527852fab9634a9dd2cca89c38269
-        label: UnityTempFile-417527852fab9634a9dd2cca89c38269
-        level: 1
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: Temp\UnityTempFile-417527852fab9634a9dd2cca89c38269
-          fullPath: D:\UnityDev\Game\StarWars\Temp\UnityTempFile-417527852fab9634a9dd2cca89c38269
-          projectPath: Temp\UnityTempFile-417527852fab9634a9dd2cca89c38269
-          originalPath: 
-          indexStatus: 1
-          workTreeStatus: 1
-      - path: Temp\UnityTempFile-598f2704592c36f479e7ab3a288115aa
-        label: UnityTempFile-598f2704592c36f479e7ab3a288115aa
-        level: 1
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: Temp\UnityTempFile-598f2704592c36f479e7ab3a288115aa
-          fullPath: D:\UnityDev\Game\StarWars\Temp\UnityTempFile-598f2704592c36f479e7ab3a288115aa
-          projectPath: Temp\UnityTempFile-598f2704592c36f479e7ab3a288115aa
-          originalPath: 
-          indexStatus: 1
-          workTreeStatus: 1
-      - path: Temp\UnityTempFile-b2d5ed01c4a135f44a2c9af79d20d9e5
-        label: UnityTempFile-b2d5ed01c4a135f44a2c9af79d20d9e5
-        level: 1
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: Temp\UnityTempFile-b2d5ed01c4a135f44a2c9af79d20d9e5
-          fullPath: D:\UnityDev\Game\StarWars\Temp\UnityTempFile-b2d5ed01c4a135f44a2c9af79d20d9e5
-          projectPath: Temp\UnityTempFile-b2d5ed01c4a135f44a2c9af79d20d9e5
-          originalPath: 
-          indexStatus: 1
-          workTreeStatus: 1
-      - path: Temp\UnityTempFile-cfc4a63e1845b92469ab6e3be80f17e5
-        label: UnityTempFile-cfc4a63e1845b92469ab6e3be80f17e5
-        level: 1
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: Temp\UnityTempFile-cfc4a63e1845b92469ab6e3be80f17e5
-          fullPath: D:\UnityDev\Game\StarWars\Temp\UnityTempFile-cfc4a63e1845b92469ab6e3be80f17e5
-          projectPath: Temp\UnityTempFile-cfc4a63e1845b92469ab6e3be80f17e5
-          originalPath: 
-          indexStatus: 1
-          workTreeStatus: 1
-      - path: Temp\UnityTempFile-d2bf035876ea49e4ab132134ece21745
-        label: UnityTempFile-d2bf035876ea49e4ab132134ece21745
-        level: 1
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: Temp\UnityTempFile-d2bf035876ea49e4ab132134ece21745
-          fullPath: D:\UnityDev\Game\StarWars\Temp\UnityTempFile-d2bf035876ea49e4ab132134ece21745
-          projectPath: Temp\UnityTempFile-d2bf035876ea49e4ab132134ece21745
-          originalPath: 
-          indexStatus: 1
-          workTreeStatus: 1
-      - path: Temp\UnityTempFile-d3fcaf07ff0bf0a4aa831785d68383ad
-        label: UnityTempFile-d3fcaf07ff0bf0a4aa831785d68383ad
-        level: 1
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: Temp\UnityTempFile-d3fcaf07ff0bf0a4aa831785d68383ad
-          fullPath: D:\UnityDev\Game\StarWars\Temp\UnityTempFile-d3fcaf07ff0bf0a4aa831785d68383ad
-          projectPath: Temp\UnityTempFile-d3fcaf07ff0bf0a4aa831785d68383ad
-          originalPath: 
-          indexStatus: 1
-          workTreeStatus: 1
-      - path: Temp\UnityTempFile-d9f52e7e4f6ccad43bb7085d2ac8a019
-        label: UnityTempFile-d9f52e7e4f6ccad43bb7085d2ac8a019
-        level: 1
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: Temp\UnityTempFile-d9f52e7e4f6ccad43bb7085d2ac8a019
-          fullPath: D:\UnityDev\Game\StarWars\Temp\UnityTempFile-d9f52e7e4f6ccad43bb7085d2ac8a019
-          projectPath: Temp\UnityTempFile-d9f52e7e4f6ccad43bb7085d2ac8a019
-          originalPath: 
-          indexStatus: 1
-          workTreeStatus: 1
-      - path: Temp\UnityTempFile-df57c2ef1b6120f4a98ea4b44b0746b8
-        label: UnityTempFile-df57c2ef1b6120f4a98ea4b44b0746b8
-        level: 1
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: Temp\UnityTempFile-df57c2ef1b6120f4a98ea4b44b0746b8
-          fullPath: D:\UnityDev\Game\StarWars\Temp\UnityTempFile-df57c2ef1b6120f4a98ea4b44b0746b8
-          projectPath: Temp\UnityTempFile-df57c2ef1b6120f4a98ea4b44b0746b8
-          originalPath: 
-          indexStatus: 1
-          workTreeStatus: 1
-      - path: Temp\UnityTempFile-e1c8bf4fd28869c41a6f5ebe9ba19c32
-        label: UnityTempFile-e1c8bf4fd28869c41a6f5ebe9ba19c32
-        level: 1
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: Temp\UnityTempFile-e1c8bf4fd28869c41a6f5ebe9ba19c32
-          fullPath: D:\UnityDev\Game\StarWars\Temp\UnityTempFile-e1c8bf4fd28869c41a6f5ebe9ba19c32
-          projectPath: Temp\UnityTempFile-e1c8bf4fd28869c41a6f5ebe9ba19c32
-          originalPath: 
-          indexStatus: 1
-          workTreeStatus: 1
-      - path: Temp\UnityTempFile-e56f0f6f55c235c4ebfe8848af894a2b
-        label: UnityTempFile-e56f0f6f55c235c4ebfe8848af894a2b
-        level: 1
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: Temp\UnityTempFile-e56f0f6f55c235c4ebfe8848af894a2b
-          fullPath: D:\UnityDev\Game\StarWars\Temp\UnityTempFile-e56f0f6f55c235c4ebfe8848af894a2b
-          projectPath: Temp\UnityTempFile-e56f0f6f55c235c4ebfe8848af894a2b
-          originalPath: 
-          indexStatus: 1
-          workTreeStatus: 1
-      - path: Temp\UnityTempFile-eda32556573399f4493c388fa90d55d9
-        label: UnityTempFile-eda32556573399f4493c388fa90d55d9
-        level: 1
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: Temp\UnityTempFile-eda32556573399f4493c388fa90d55d9
-          fullPath: D:\UnityDev\Game\StarWars\Temp\UnityTempFile-eda32556573399f4493c388fa90d55d9
-          projectPath: Temp\UnityTempFile-eda32556573399f4493c388fa90d55d9
           originalPath: 
           indexStatus: 1
           workTreeStatus: 1
@@ -4463,36 +1746,6 @@ MonoBehaviour:
           indexStatus: 0
           workTreeStatus: 0
     gitStatusEntries:
-    - path: .vs\StarWars\v16\.suo
-      fullPath: D:\UnityDev\Game\StarWars\.vs\StarWars\v16\.suo
-      projectPath: .vs\StarWars\v16\.suo
-      originalPath: 
-      indexStatus: 1
-      workTreeStatus: 1
-    - path: .vs\StarWars\v16\Server\sqlite3\db.lock
-      fullPath: D:\UnityDev\Game\StarWars\.vs\StarWars\v16\Server\sqlite3\db.lock
-      projectPath: .vs\StarWars\v16\Server\sqlite3\db.lock
-      originalPath: 
-      indexStatus: 1
-      workTreeStatus: 1
-    - path: .vs\StarWars\v16\Server\sqlite3\storage.ide
-      fullPath: D:\UnityDev\Game\StarWars\.vs\StarWars\v16\Server\sqlite3\storage.ide
-      projectPath: .vs\StarWars\v16\Server\sqlite3\storage.ide
-      originalPath: 
-      indexStatus: 1
-      workTreeStatus: 1
-    - path: .vs\StarWars\v16\Server\sqlite3\storage.ide-shm
-      fullPath: D:\UnityDev\Game\StarWars\.vs\StarWars\v16\Server\sqlite3\storage.ide-shm
-      projectPath: .vs\StarWars\v16\Server\sqlite3\storage.ide-shm
-      originalPath: 
-      indexStatus: 1
-      workTreeStatus: 1
-    - path: .vs\StarWars\v16\Server\sqlite3\storage.ide-wal
-      fullPath: D:\UnityDev\Game\StarWars\.vs\StarWars\v16\Server\sqlite3\storage.ide-wal
-      projectPath: .vs\StarWars\v16\Server\sqlite3\storage.ide-wal
-      originalPath: 
-      indexStatus: 1
-      workTreeStatus: 1
     - path: Assembly-CSharp.csproj
       fullPath: D:\UnityDev\Game\StarWars\Assembly-CSharp.csproj
       projectPath: Assembly-CSharp.csproj
@@ -4505,258 +1758,54 @@ MonoBehaviour:
       originalPath: 
       indexStatus: 0
       workTreeStatus: 3
-    - path: Assets\Prefabs\Enemy.prefab.meta
-      fullPath: D:\UnityDev\Game\StarWars\Assets\Prefabs\Enemy.prefab.meta
-      projectPath: Assets\Prefabs\Enemy.prefab.meta
+    - path: Assets\Animation\Enemy.controller
+      fullPath: D:\UnityDev\Game\StarWars\Assets\Animation\Enemy.controller
+      projectPath: Assets\Animation\Enemy.controller
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Animation\Enemy.controller.meta
+      fullPath: D:\UnityDev\Game\StarWars\Assets\Animation\Enemy.controller.meta
+      projectPath: Assets\Animation\Enemy.controller.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Animation\Enemy_Destroyed_anim.anim
+      fullPath: D:\UnityDev\Game\StarWars\Assets\Animation\Enemy_Destroyed_anim.anim
+      projectPath: Assets\Animation\Enemy_Destroyed_anim.anim
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Animation\Enemy_Destroyed_anim.anim.meta
+      fullPath: D:\UnityDev\Game\StarWars\Assets\Animation\Enemy_Destroyed_anim.anim.meta
+      projectPath: Assets\Animation\Enemy_Destroyed_anim.anim.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets\Prefabs\Enemy\Enemy.prefab
+      fullPath: D:\UnityDev\Game\StarWars\Assets\Prefabs\Enemy\Enemy.prefab
+      projectPath: Assets\Prefabs\Enemy\Enemy.prefab
       originalPath: 
       indexStatus: 0
       workTreeStatus: 3
-    - path: Assets\Prefabs\Triple_Shot_Powerup.prefab.meta
-      fullPath: D:\UnityDev\Game\StarWars\Assets\Prefabs\Triple_Shot_Powerup.prefab.meta
-      projectPath: Assets\Prefabs\Triple_Shot_Powerup.prefab.meta
-      originalPath: 
-      indexStatus: 0
-      workTreeStatus: 3
-    - path: Assets\Scenes\Main_menu.unity
-      fullPath: D:\UnityDev\Game\StarWars\Assets\Scenes\Main_menu.unity
-      projectPath: Assets\Scenes\Main_menu.unity
-      originalPath: 
-      indexStatus: 1
-      workTreeStatus: 1
-    - path: Assets\Scenes\Main_menu.unity.meta
-      fullPath: D:\UnityDev\Game\StarWars\Assets\Scenes\Main_menu.unity.meta
-      projectPath: Assets\Scenes\Main_menu.unity.meta
-      originalPath: 
-      indexStatus: 1
-      workTreeStatus: 1
-    - path: Assets\Scenes\SampleScene.unity
-      fullPath: D:\UnityDev\Game\StarWars\Assets\Scenes\SampleScene.unity
-      projectPath: Assets\Scenes\SampleScene.unity
-      originalPath: 
-      indexStatus: 0
-      workTreeStatus: 3
-    - path: Assets\Scenes\Script.meta
-      fullPath: D:\UnityDev\Game\StarWars\Assets\Scenes\Script.meta
-      projectPath: Assets\Scenes\Script.meta
-      originalPath: 
-      indexStatus: 0
-      workTreeStatus: 5
-    - path: Assets\Scenes\Script\Enemy.cs
-      fullPath: D:\UnityDev\Game\StarWars\Assets\Scenes\Script\Enemy.cs
-      projectPath: Assets\Scenes\Script\Enemy.cs
-      originalPath: 
-      indexStatus: 0
-      workTreeStatus: 5
-    - path: Assets\Scenes\Script\Enemy.cs.meta
-      fullPath: D:\UnityDev\Game\StarWars\Assets\Scenes\Script\Enemy.cs.meta
-      projectPath: Assets\Scenes\Script\Enemy.cs.meta
-      originalPath: 
-      indexStatus: 0
-      workTreeStatus: 5
-    - path: Assets\Scenes\Script\Laser.cs
-      fullPath: D:\UnityDev\Game\StarWars\Assets\Scenes\Script\Laser.cs
-      projectPath: Assets\Scenes\Script\Laser.cs
-      originalPath: 
-      indexStatus: 0
-      workTreeStatus: 5
-    - path: Assets\Scenes\Script\Laser.cs.meta
-      fullPath: D:\UnityDev\Game\StarWars\Assets\Scenes\Script\Laser.cs.meta
-      projectPath: Assets\Scenes\Script\Laser.cs.meta
-      originalPath: 
-      indexStatus: 0
-      workTreeStatus: 5
-    - path: Assets\Scenes\Script\Player.cs
-      fullPath: D:\UnityDev\Game\StarWars\Assets\Scenes\Script\Player.cs
-      projectPath: Assets\Scenes\Script\Player.cs
-      originalPath: 
-      indexStatus: 0
-      workTreeStatus: 5
-    - path: Assets\Scenes\Script\Player.cs.meta
-      fullPath: D:\UnityDev\Game\StarWars\Assets\Scenes\Script\Player.cs.meta
-      projectPath: Assets\Scenes\Script\Player.cs.meta
-      originalPath: 
-      indexStatus: 0
-      workTreeStatus: 5
-    - path: Assets\Scenes\Script\SpawnManager.cs
-      fullPath: D:\UnityDev\Game\StarWars\Assets\Scenes\Script\SpawnManager.cs
-      projectPath: Assets\Scenes\Script\SpawnManager.cs
-      originalPath: 
-      indexStatus: 0
-      workTreeStatus: 5
-    - path: Assets\Scenes\Script\SpawnManager.cs.meta
-      fullPath: D:\UnityDev\Game\StarWars\Assets\Scenes\Script\SpawnManager.cs.meta
-      projectPath: Assets\Scenes\Script\SpawnManager.cs.meta
-      originalPath: 
-      indexStatus: 0
-      workTreeStatus: 5
-    - path: Assets\Scenes\Script\TriplePowerup.cs
-      fullPath: D:\UnityDev\Game\StarWars\Assets\Scenes\Script\TriplePowerup.cs
-      projectPath: Assets\Scenes\Script\TriplePowerup.cs
-      originalPath: 
-      indexStatus: 0
-      workTreeStatus: 5
-    - path: Assets\Scenes\Script\TriplePowerup.cs.meta
-      fullPath: D:\UnityDev\Game\StarWars\Assets\Scenes\Script\TriplePowerup.cs.meta
-      projectPath: Assets\Scenes\Script\TriplePowerup.cs.meta
-      originalPath: 
-      indexStatus: 0
-      workTreeStatus: 5
-    - path: Assets\Script.meta
-      fullPath: D:\UnityDev\Game\StarWars\Assets\Script.meta
-      projectPath: Assets\Script.meta
-      originalPath: 
-      indexStatus: 1
-      workTreeStatus: 1
-    - path: Assets\Script\Enemy.cs
-      fullPath: D:\UnityDev\Game\StarWars\Assets\Script\Enemy.cs
-      projectPath: Assets\Script\Enemy.cs
-      originalPath: 
-      indexStatus: 1
-      workTreeStatus: 1
-    - path: Assets\Script\Enemy.cs.meta
-      fullPath: D:\UnityDev\Game\StarWars\Assets\Script\Enemy.cs.meta
-      projectPath: Assets\Script\Enemy.cs.meta
-      originalPath: 
-      indexStatus: 1
-      workTreeStatus: 1
-    - path: Assets\Script\GameManager.cs
-      fullPath: D:\UnityDev\Game\StarWars\Assets\Script\GameManager.cs
-      projectPath: Assets\Script\GameManager.cs
-      originalPath: 
-      indexStatus: 1
-      workTreeStatus: 1
-    - path: Assets\Script\GameManager.cs.meta
-      fullPath: D:\UnityDev\Game\StarWars\Assets\Script\GameManager.cs.meta
-      projectPath: Assets\Script\GameManager.cs.meta
-      originalPath: 
-      indexStatus: 1
-      workTreeStatus: 1
-    - path: Assets\Script\Laser.cs
-      fullPath: D:\UnityDev\Game\StarWars\Assets\Script\Laser.cs
-      projectPath: Assets\Script\Laser.cs
-      originalPath: 
-      indexStatus: 1
-      workTreeStatus: 1
-    - path: Assets\Script\Laser.cs.meta
-      fullPath: D:\UnityDev\Game\StarWars\Assets\Script\Laser.cs.meta
-      projectPath: Assets\Script\Laser.cs.meta
-      originalPath: 
-      indexStatus: 1
-      workTreeStatus: 1
-    - path: Assets\Script\MainMenu.meta
-      fullPath: D:\UnityDev\Game\StarWars\Assets\Script\MainMenu.meta
-      projectPath: Assets\Script\MainMenu.meta
-      originalPath: 
-      indexStatus: 1
-      workTreeStatus: 1
-    - path: Assets\Script\MainMenu\MainMenu.cs
-      fullPath: D:\UnityDev\Game\StarWars\Assets\Script\MainMenu\MainMenu.cs
-      projectPath: Assets\Script\MainMenu\MainMenu.cs
-      originalPath: 
-      indexStatus: 1
-      workTreeStatus: 1
-    - path: Assets\Script\MainMenu\MainMenu.cs.meta
-      fullPath: D:\UnityDev\Game\StarWars\Assets\Script\MainMenu\MainMenu.cs.meta
-      projectPath: Assets\Script\MainMenu\MainMenu.cs.meta
-      originalPath: 
-      indexStatus: 1
-      workTreeStatus: 1
-    - path: Assets\Script\Player.cs
-      fullPath: D:\UnityDev\Game\StarWars\Assets\Script\Player.cs
-      projectPath: Assets\Script\Player.cs
-      originalPath: 
-      indexStatus: 1
-      workTreeStatus: 1
-    - path: Assets\Script\Player.cs.meta
-      fullPath: D:\UnityDev\Game\StarWars\Assets\Script\Player.cs.meta
-      projectPath: Assets\Script\Player.cs.meta
-      originalPath: 
-      indexStatus: 1
-      workTreeStatus: 1
-    - path: Assets\Script\SpawnManager.cs
-      fullPath: D:\UnityDev\Game\StarWars\Assets\Script\SpawnManager.cs
-      projectPath: Assets\Script\SpawnManager.cs
-      originalPath: 
-      indexStatus: 1
-      workTreeStatus: 1
-    - path: Assets\Script\SpawnManager.cs.meta
-      fullPath: D:\UnityDev\Game\StarWars\Assets\Script\SpawnManager.cs.meta
-      projectPath: Assets\Script\SpawnManager.cs.meta
-      originalPath: 
-      indexStatus: 1
-      workTreeStatus: 1
-    - path: Assets\Script\TriplePowerup.cs
-      fullPath: D:\UnityDev\Game\StarWars\Assets\Script\TriplePowerup.cs
-      projectPath: Assets\Script\TriplePowerup.cs
-      originalPath: 
-      indexStatus: 1
-      workTreeStatus: 1
-    - path: Assets\Script\TriplePowerup.cs.meta
-      fullPath: D:\UnityDev\Game\StarWars\Assets\Script\TriplePowerup.cs.meta
-      projectPath: Assets\Script\TriplePowerup.cs.meta
-      originalPath: 
-      indexStatus: 1
-      workTreeStatus: 1
-    - path: Assets\Script\UImanager.cs
-      fullPath: D:\UnityDev\Game\StarWars\Assets\Script\UImanager.cs
-      projectPath: Assets\Script\UImanager.cs
-      originalPath: 
-      indexStatus: 1
-      workTreeStatus: 1
-    - path: Assets\Script\UImanager.cs.meta
-      fullPath: D:\UnityDev\Game\StarWars\Assets\Script\UImanager.cs.meta
-      projectPath: Assets\Script\UImanager.cs.meta
-      originalPath: 
-      indexStatus: 1
-      workTreeStatus: 1
     - path: Library\assetDatabase3
       fullPath: D:\UnityDev\Game\StarWars\Library\assetDatabase3
       projectPath: Library\assetDatabase3
       originalPath: 
       indexStatus: 0
       workTreeStatus: 3
-    - path: Library\CurrentLayout.dwlt
-      fullPath: D:\UnityDev\Game\StarWars\Library\CurrentLayout.dwlt
-      projectPath: Library\CurrentLayout.dwlt
+    - path: Library\CrashedAssetImports.txt
+      fullPath: D:\UnityDev\Game\StarWars\Library\CrashedAssetImports.txt
+      projectPath: Library\CrashedAssetImports.txt
       originalPath: 
-      indexStatus: 0
-      workTreeStatus: 3
+      indexStatus: 1
+      workTreeStatus: 1
     - path: Library\EditorInstance.json
       fullPath: D:\UnityDev\Game\StarWars\Library\EditorInstance.json
       projectPath: Library\EditorInstance.json
       originalPath: 
-      indexStatus: 0
-      workTreeStatus: 3
-    - path: Library\EditorUserBuildSettings.asset
-      fullPath: D:\UnityDev\Game\StarWars\Library\EditorUserBuildSettings.asset
-      projectPath: Library\EditorUserBuildSettings.asset
-      originalPath: 
-      indexStatus: 0
-      workTreeStatus: 3
-    - path: Library\expandedItems
-      fullPath: D:\UnityDev\Game\StarWars\Library\expandedItems
-      projectPath: Library\expandedItems
-      originalPath: 
-      indexStatus: 0
-      workTreeStatus: 3
-    - path: Library\gfu\cache\branches.yaml
-      fullPath: D:\UnityDev\Game\StarWars\Library\gfu\cache\branches.yaml
-      projectPath: Library\gfu\cache\branches.yaml
-      originalPath: 
-      indexStatus: 0
-      workTreeStatus: 3
-    - path: Library\gfu\cache\gitlocks.yaml
-      fullPath: D:\UnityDev\Game\StarWars\Library\gfu\cache\gitlocks.yaml
-      projectPath: Library\gfu\cache\gitlocks.yaml
-      originalPath: 
-      indexStatus: 0
-      workTreeStatus: 3
-    - path: Library\gfu\cache\gitlog.yaml
-      fullPath: D:\UnityDev\Game\StarWars\Library\gfu\cache\gitlog.yaml
-      projectPath: Library\gfu\cache\gitlog.yaml
-      originalPath: 
-      indexStatus: 0
-      workTreeStatus: 3
+      indexStatus: 1
+      workTreeStatus: 1
     - path: Library\gfu\cache\gitstatusentries.yaml
       fullPath: D:\UnityDev\Game\StarWars\Library\gfu\cache\gitstatusentries.yaml
       projectPath: Library\gfu\cache\gitstatusentries.yaml
@@ -4769,213 +1818,45 @@ MonoBehaviour:
       originalPath: 
       indexStatus: 0
       workTreeStatus: 3
-    - path: Library\gfu\cache\gituser.yaml
-      fullPath: D:\UnityDev\Game\StarWars\Library\gfu\cache\gituser.yaml
-      projectPath: Library\gfu\cache\gituser.yaml
-      originalPath: 
-      indexStatus: 0
-      workTreeStatus: 3
     - path: Library\gfu\cache\repoinfo.yaml
       fullPath: D:\UnityDev\Game\StarWars\Library\gfu\cache\repoinfo.yaml
       projectPath: Library\gfu\cache\repoinfo.yaml
       originalPath: 
       indexStatus: 0
       workTreeStatus: 3
-    - path: Library\InspectorExpandedItems.asset
-      fullPath: D:\UnityDev\Game\StarWars\Library\InspectorExpandedItems.asset
-      projectPath: Library\InspectorExpandedItems.asset
+    - path: Library\metadata\0c\0cfea1d9f4f1a194c8e1a266c4cb9c40
+      fullPath: D:\UnityDev\Game\StarWars\Library\metadata\0c\0cfea1d9f4f1a194c8e1a266c4cb9c40
+      projectPath: Library\metadata\0c\0cfea1d9f4f1a194c8e1a266c4cb9c40
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Library\metadata\0c\0cfea1d9f4f1a194c8e1a266c4cb9c40.info
+      fullPath: D:\UnityDev\Game\StarWars\Library\metadata\0c\0cfea1d9f4f1a194c8e1a266c4cb9c40.info
+      projectPath: Library\metadata\0c\0cfea1d9f4f1a194c8e1a266c4cb9c40.info
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Library\metadata\c1\c1f8a29cf58dec14393af8762850f741
+      fullPath: D:\UnityDev\Game\StarWars\Library\metadata\c1\c1f8a29cf58dec14393af8762850f741
+      projectPath: Library\metadata\c1\c1f8a29cf58dec14393af8762850f741
       originalPath: 
       indexStatus: 0
       workTreeStatus: 3
-    - path: Library\metadata\04\045b38d46db53c0498aabc19685420c8
-      fullPath: D:\UnityDev\Game\StarWars\Library\metadata\04\045b38d46db53c0498aabc19685420c8
-      projectPath: Library\metadata\04\045b38d46db53c0498aabc19685420c8
-      originalPath: 
-      indexStatus: 0
-      workTreeStatus: 5
-    - path: Library\metadata\04\045b38d46db53c0498aabc19685420c8.info
-      fullPath: D:\UnityDev\Game\StarWars\Library\metadata\04\045b38d46db53c0498aabc19685420c8.info
-      projectPath: Library\metadata\04\045b38d46db53c0498aabc19685420c8.info
-      originalPath: 
-      indexStatus: 0
-      workTreeStatus: 5
-    - path: Library\metadata\10\10659af3cbde4f14e8ba58097df3a044
-      fullPath: D:\UnityDev\Game\StarWars\Library\metadata\10\10659af3cbde4f14e8ba58097df3a044
-      projectPath: Library\metadata\10\10659af3cbde4f14e8ba58097df3a044
-      originalPath: 
-      indexStatus: 1
-      workTreeStatus: 1
-    - path: Library\metadata\10\10659af3cbde4f14e8ba58097df3a044.info
-      fullPath: D:\UnityDev\Game\StarWars\Library\metadata\10\10659af3cbde4f14e8ba58097df3a044.info
-      projectPath: Library\metadata\10\10659af3cbde4f14e8ba58097df3a044.info
-      originalPath: 
-      indexStatus: 1
-      workTreeStatus: 1
-    - path: Library\metadata\36\364a0de5919ae6940a4b55cf24850204
-      fullPath: D:\UnityDev\Game\StarWars\Library\metadata\36\364a0de5919ae6940a4b55cf24850204
-      projectPath: Library\metadata\36\364a0de5919ae6940a4b55cf24850204
-      originalPath: 
-      indexStatus: 1
-      workTreeStatus: 1
-    - path: Library\metadata\36\364a0de5919ae6940a4b55cf24850204.info
-      fullPath: D:\UnityDev\Game\StarWars\Library\metadata\36\364a0de5919ae6940a4b55cf24850204.info
-      projectPath: Library\metadata\36\364a0de5919ae6940a4b55cf24850204.info
-      originalPath: 
-      indexStatus: 1
-      workTreeStatus: 1
-    - path: Library\metadata\38\381a2be40571978429dd42f65146724e
-      fullPath: D:\UnityDev\Game\StarWars\Library\metadata\38\381a2be40571978429dd42f65146724e
-      projectPath: Library\metadata\38\381a2be40571978429dd42f65146724e
-      originalPath: 
-      indexStatus: 1
-      workTreeStatus: 1
-    - path: Library\metadata\38\381a2be40571978429dd42f65146724e.info
-      fullPath: D:\UnityDev\Game\StarWars\Library\metadata\38\381a2be40571978429dd42f65146724e.info
-      projectPath: Library\metadata\38\381a2be40571978429dd42f65146724e.info
-      originalPath: 
-      indexStatus: 1
-      workTreeStatus: 1
-    - path: Library\metadata\39\39aa58d4f2863a8428b1cedd6dad144d
-      fullPath: D:\UnityDev\Game\StarWars\Library\metadata\39\39aa58d4f2863a8428b1cedd6dad144d
-      projectPath: Library\metadata\39\39aa58d4f2863a8428b1cedd6dad144d
+    - path: Library\metadata\c1\c1f8a29cf58dec14393af8762850f741.info
+      fullPath: D:\UnityDev\Game\StarWars\Library\metadata\c1\c1f8a29cf58dec14393af8762850f741.info
+      projectPath: Library\metadata\c1\c1f8a29cf58dec14393af8762850f741.info
       originalPath: 
       indexStatus: 0
       workTreeStatus: 3
-    - path: Library\metadata\39\39aa58d4f2863a8428b1cedd6dad144d.info
-      fullPath: D:\UnityDev\Game\StarWars\Library\metadata\39\39aa58d4f2863a8428b1cedd6dad144d.info
-      projectPath: Library\metadata\39\39aa58d4f2863a8428b1cedd6dad144d.info
-      originalPath: 
-      indexStatus: 0
-      workTreeStatus: 3
-    - path: Library\metadata\43\439a0fa347ea0db4fbb353b85e1e755b
-      fullPath: D:\UnityDev\Game\StarWars\Library\metadata\43\439a0fa347ea0db4fbb353b85e1e755b
-      projectPath: Library\metadata\43\439a0fa347ea0db4fbb353b85e1e755b
+    - path: Library\metadata\c3\c3f9daffb08551b44a59cc40544ec882
+      fullPath: D:\UnityDev\Game\StarWars\Library\metadata\c3\c3f9daffb08551b44a59cc40544ec882
+      projectPath: Library\metadata\c3\c3f9daffb08551b44a59cc40544ec882
       originalPath: 
       indexStatus: 1
       workTreeStatus: 1
-    - path: Library\metadata\43\439a0fa347ea0db4fbb353b85e1e755b.info
-      fullPath: D:\UnityDev\Game\StarWars\Library\metadata\43\439a0fa347ea0db4fbb353b85e1e755b.info
-      projectPath: Library\metadata\43\439a0fa347ea0db4fbb353b85e1e755b.info
-      originalPath: 
-      indexStatus: 1
-      workTreeStatus: 1
-    - path: Library\metadata\ab\abc353fc32d39654a8c21acc69a34cea
-      fullPath: D:\UnityDev\Game\StarWars\Library\metadata\ab\abc353fc32d39654a8c21acc69a34cea
-      projectPath: Library\metadata\ab\abc353fc32d39654a8c21acc69a34cea
-      originalPath: 
-      indexStatus: 0
-      workTreeStatus: 3
-    - path: Library\metadata\ab\abc353fc32d39654a8c21acc69a34cea.info
-      fullPath: D:\UnityDev\Game\StarWars\Library\metadata\ab\abc353fc32d39654a8c21acc69a34cea.info
-      projectPath: Library\metadata\ab\abc353fc32d39654a8c21acc69a34cea.info
-      originalPath: 
-      indexStatus: 0
-      workTreeStatus: 3
-    - path: Library\metadata\ac\ac21d9bd213d63e43bd473451e04fd99
-      fullPath: D:\UnityDev\Game\StarWars\Library\metadata\ac\ac21d9bd213d63e43bd473451e04fd99
-      projectPath: Library\metadata\ac\ac21d9bd213d63e43bd473451e04fd99
-      originalPath: 
-      indexStatus: 0
-      workTreeStatus: 3
-    - path: Library\metadata\ac\ac21d9bd213d63e43bd473451e04fd99.info
-      fullPath: D:\UnityDev\Game\StarWars\Library\metadata\ac\ac21d9bd213d63e43bd473451e04fd99.info
-      projectPath: Library\metadata\ac\ac21d9bd213d63e43bd473451e04fd99.info
-      originalPath: 
-      indexStatus: 0
-      workTreeStatus: 3
-    - path: Library\metadata\c2\c21e59a99633e7e4cb1ca079de63e66e
-      fullPath: D:\UnityDev\Game\StarWars\Library\metadata\c2\c21e59a99633e7e4cb1ca079de63e66e
-      projectPath: Library\metadata\c2\c21e59a99633e7e4cb1ca079de63e66e
-      originalPath: 
-      indexStatus: 1
-      workTreeStatus: 1
-    - path: Library\metadata\c2\c21e59a99633e7e4cb1ca079de63e66e.info
-      fullPath: D:\UnityDev\Game\StarWars\Library\metadata\c2\c21e59a99633e7e4cb1ca079de63e66e.info
-      projectPath: Library\metadata\c2\c21e59a99633e7e4cb1ca079de63e66e.info
-      originalPath: 
-      indexStatus: 1
-      workTreeStatus: 1
-    - path: Library\metadata\d9\d94431b0d6c2658418d6ab670fc2b9ac
-      fullPath: D:\UnityDev\Game\StarWars\Library\metadata\d9\d94431b0d6c2658418d6ab670fc2b9ac
-      projectPath: Library\metadata\d9\d94431b0d6c2658418d6ab670fc2b9ac
-      originalPath: 
-      indexStatus: 1
-      workTreeStatus: 1
-    - path: Library\metadata\d9\d94431b0d6c2658418d6ab670fc2b9ac.info
-      fullPath: D:\UnityDev\Game\StarWars\Library\metadata\d9\d94431b0d6c2658418d6ab670fc2b9ac.info
-      projectPath: Library\metadata\d9\d94431b0d6c2658418d6ab670fc2b9ac.info
-      originalPath: 
-      indexStatus: 1
-      workTreeStatus: 1
-    - path: Library\metadata\ef\ef202204f48f89241bcdc9b7f473667e
-      fullPath: D:\UnityDev\Game\StarWars\Library\metadata\ef\ef202204f48f89241bcdc9b7f473667e
-      projectPath: Library\metadata\ef\ef202204f48f89241bcdc9b7f473667e
-      originalPath: 
-      indexStatus: 0
-      workTreeStatus: 3
-    - path: Library\metadata\ef\ef202204f48f89241bcdc9b7f473667e.info
-      fullPath: D:\UnityDev\Game\StarWars\Library\metadata\ef\ef202204f48f89241bcdc9b7f473667e.info
-      projectPath: Library\metadata\ef\ef202204f48f89241bcdc9b7f473667e.info
-      originalPath: 
-      indexStatus: 0
-      workTreeStatus: 3
-    - path: Library\metadata\f5\f5df2bdf8f401a4429139828070ea27b
-      fullPath: D:\UnityDev\Game\StarWars\Library\metadata\f5\f5df2bdf8f401a4429139828070ea27b
-      projectPath: Library\metadata\f5\f5df2bdf8f401a4429139828070ea27b
-      originalPath: 
-      indexStatus: 1
-      workTreeStatus: 1
-    - path: Library\metadata\f5\f5df2bdf8f401a4429139828070ea27b.info
-      fullPath: D:\UnityDev\Game\StarWars\Library\metadata\f5\f5df2bdf8f401a4429139828070ea27b.info
-      projectPath: Library\metadata\f5\f5df2bdf8f401a4429139828070ea27b.info
-      originalPath: 
-      indexStatus: 1
-      workTreeStatus: 1
-    - path: Library\metadata\fb\fb3a3a06809c1f443a09d2304b707ae1
-      fullPath: D:\UnityDev\Game\StarWars\Library\metadata\fb\fb3a3a06809c1f443a09d2304b707ae1
-      projectPath: Library\metadata\fb\fb3a3a06809c1f443a09d2304b707ae1
-      originalPath: 
-      indexStatus: 0
-      workTreeStatus: 3
-    - path: Library\metadata\fb\fb3a3a06809c1f443a09d2304b707ae1.info
-      fullPath: D:\UnityDev\Game\StarWars\Library\metadata\fb\fb3a3a06809c1f443a09d2304b707ae1.info
-      projectPath: Library\metadata\fb\fb3a3a06809c1f443a09d2304b707ae1.info
-      originalPath: 
-      indexStatus: 0
-      workTreeStatus: 3
-    - path: Library\metadata\fb\fb9c95670312c2e4fbe8c650cd7a0977
-      fullPath: D:\UnityDev\Game\StarWars\Library\metadata\fb\fb9c95670312c2e4fbe8c650cd7a0977
-      projectPath: Library\metadata\fb\fb9c95670312c2e4fbe8c650cd7a0977
-      originalPath: 
-      indexStatus: 1
-      workTreeStatus: 1
-    - path: Library\metadata\fb\fb9c95670312c2e4fbe8c650cd7a0977.info
-      fullPath: D:\UnityDev\Game\StarWars\Library\metadata\fb\fb9c95670312c2e4fbe8c650cd7a0977.info
-      projectPath: Library\metadata\fb\fb9c95670312c2e4fbe8c650cd7a0977.info
-      originalPath: 
-      indexStatus: 1
-      workTreeStatus: 1
-    - path: Library\ScriptAssemblies\Assembly-CSharp.dll
-      fullPath: D:\UnityDev\Game\StarWars\Library\ScriptAssemblies\Assembly-CSharp.dll
-      projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
-      originalPath: 
-      indexStatus: 0
-      workTreeStatus: 3
-    - path: Library\ScriptAssemblies\Assembly-CSharp.pdb
-      fullPath: D:\UnityDev\Game\StarWars\Library\ScriptAssemblies\Assembly-CSharp.pdb
-      projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
-      originalPath: 
-      indexStatus: 0
-      workTreeStatus: 3
-    - path: Library\ShaderCache\3\36835570c210b2db7909bc55db3ba5b3.bin
-      fullPath: D:\UnityDev\Game\StarWars\Library\ShaderCache\3\36835570c210b2db7909bc55db3ba5b3.bin
-      projectPath: Library\ShaderCache\3\36835570c210b2db7909bc55db3ba5b3.bin
-      originalPath: 
-      indexStatus: 1
-      workTreeStatus: 1
-    - path: Library\ShaderCache\3\3de55510e0661a2487c5f089fe72fc75.bin
-      fullPath: D:\UnityDev\Game\StarWars\Library\ShaderCache\3\3de55510e0661a2487c5f089fe72fc75.bin
-      projectPath: Library\ShaderCache\3\3de55510e0661a2487c5f089fe72fc75.bin
+    - path: Library\metadata\c3\c3f9daffb08551b44a59cc40544ec882.info
+      fullPath: D:\UnityDev\Game\StarWars\Library\metadata\c3\c3f9daffb08551b44a59cc40544ec882.info
+      projectPath: Library\metadata\c3\c3f9daffb08551b44a59cc40544ec882.info
       originalPath: 
       indexStatus: 1
       workTreeStatus: 1
@@ -4991,57 +1872,9 @@ MonoBehaviour:
       originalPath: 
       indexStatus: 0
       workTreeStatus: 3
-    - path: Library\StateCache\SceneView\4212a7-mainStage.json
-      fullPath: D:\UnityDev\Game\StarWars\Library\StateCache\SceneView\4212a7-mainStage.json
-      projectPath: Library\StateCache\SceneView\4212a7-mainStage.json
-      originalPath: 
-      indexStatus: 0
-      workTreeStatus: 3
-    - path: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
-      fullPath: D:\UnityDev\Game\StarWars\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
-      projectPath: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
-      originalPath: 
-      indexStatus: 0
-      workTreeStatus: 3
-    - path: obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
-      fullPath: D:\UnityDev\Game\StarWars\obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
-      projectPath: obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
-      originalPath: 
-      indexStatus: 1
-      workTreeStatus: 1
-    - path: obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
-      fullPath: D:\UnityDev\Game\StarWars\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
-      projectPath: obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
-      originalPath: 
-      indexStatus: 0
-      workTreeStatus: 3
-    - path: ProjectSettings\EditorBuildSettings.asset
-      fullPath: D:\UnityDev\Game\StarWars\ProjectSettings\EditorBuildSettings.asset
-      projectPath: ProjectSettings\EditorBuildSettings.asset
-      originalPath: 
-      indexStatus: 0
-      workTreeStatus: 3
-    - path: StarWars.sln
-      fullPath: D:\UnityDev\Game\StarWars\StarWars.sln
-      projectPath: StarWars.sln
-      originalPath: 
-      indexStatus: 1
-      workTreeStatus: 1
-    - path: Temp\__Backupscenes\0.backup
-      fullPath: D:\UnityDev\Game\StarWars\Temp\__Backupscenes\0.backup
-      projectPath: Temp\__Backupscenes\0.backup
-      originalPath: 
-      indexStatus: 1
-      workTreeStatus: 1
     - path: Temp\ProcessJobs\2992039c52923dad903a8c0db934f209.bakert
       fullPath: D:\UnityDev\Game\StarWars\Temp\ProcessJobs\2992039c52923dad903a8c0db934f209.bakert
       projectPath: Temp\ProcessJobs\2992039c52923dad903a8c0db934f209.bakert
-      originalPath: 
-      indexStatus: 1
-      workTreeStatus: 1
-    - path: Temp\ProcessJobs\45b2d24db5322d79cda5d8b11efaf2e8.bakert
-      fullPath: D:\UnityDev\Game\StarWars\Temp\ProcessJobs\45b2d24db5322d79cda5d8b11efaf2e8.bakert
-      projectPath: Temp\ProcessJobs\45b2d24db5322d79cda5d8b11efaf2e8.bakert
       originalPath: 
       indexStatus: 1
       workTreeStatus: 1
@@ -5057,99 +1890,15 @@ MonoBehaviour:
       originalPath: 
       indexStatus: 1
       workTreeStatus: 1
-    - path: Temp\UnityTempFile-0633efdff48cbd143b0b1d6e53ca4621
-      fullPath: D:\UnityDev\Game\StarWars\Temp\UnityTempFile-0633efdff48cbd143b0b1d6e53ca4621
-      projectPath: Temp\UnityTempFile-0633efdff48cbd143b0b1d6e53ca4621
-      originalPath: 
-      indexStatus: 1
-      workTreeStatus: 1
-    - path: Temp\UnityTempFile-2862adc44954d3940a4b82745514e4ec
-      fullPath: D:\UnityDev\Game\StarWars\Temp\UnityTempFile-2862adc44954d3940a4b82745514e4ec
-      projectPath: Temp\UnityTempFile-2862adc44954d3940a4b82745514e4ec
-      originalPath: 
-      indexStatus: 1
-      workTreeStatus: 1
-    - path: Temp\UnityTempFile-35237fa8eca79094ab3b9e3c5e3c7f57
-      fullPath: D:\UnityDev\Game\StarWars\Temp\UnityTempFile-35237fa8eca79094ab3b9e3c5e3c7f57
-      projectPath: Temp\UnityTempFile-35237fa8eca79094ab3b9e3c5e3c7f57
-      originalPath: 
-      indexStatus: 1
-      workTreeStatus: 1
-    - path: Temp\UnityTempFile-417527852fab9634a9dd2cca89c38269
-      fullPath: D:\UnityDev\Game\StarWars\Temp\UnityTempFile-417527852fab9634a9dd2cca89c38269
-      projectPath: Temp\UnityTempFile-417527852fab9634a9dd2cca89c38269
-      originalPath: 
-      indexStatus: 1
-      workTreeStatus: 1
-    - path: Temp\UnityTempFile-598f2704592c36f479e7ab3a288115aa
-      fullPath: D:\UnityDev\Game\StarWars\Temp\UnityTempFile-598f2704592c36f479e7ab3a288115aa
-      projectPath: Temp\UnityTempFile-598f2704592c36f479e7ab3a288115aa
-      originalPath: 
-      indexStatus: 1
-      workTreeStatus: 1
-    - path: Temp\UnityTempFile-b2d5ed01c4a135f44a2c9af79d20d9e5
-      fullPath: D:\UnityDev\Game\StarWars\Temp\UnityTempFile-b2d5ed01c4a135f44a2c9af79d20d9e5
-      projectPath: Temp\UnityTempFile-b2d5ed01c4a135f44a2c9af79d20d9e5
-      originalPath: 
-      indexStatus: 1
-      workTreeStatus: 1
-    - path: Temp\UnityTempFile-cfc4a63e1845b92469ab6e3be80f17e5
-      fullPath: D:\UnityDev\Game\StarWars\Temp\UnityTempFile-cfc4a63e1845b92469ab6e3be80f17e5
-      projectPath: Temp\UnityTempFile-cfc4a63e1845b92469ab6e3be80f17e5
-      originalPath: 
-      indexStatus: 1
-      workTreeStatus: 1
-    - path: Temp\UnityTempFile-d2bf035876ea49e4ab132134ece21745
-      fullPath: D:\UnityDev\Game\StarWars\Temp\UnityTempFile-d2bf035876ea49e4ab132134ece21745
-      projectPath: Temp\UnityTempFile-d2bf035876ea49e4ab132134ece21745
-      originalPath: 
-      indexStatus: 1
-      workTreeStatus: 1
-    - path: Temp\UnityTempFile-d3fcaf07ff0bf0a4aa831785d68383ad
-      fullPath: D:\UnityDev\Game\StarWars\Temp\UnityTempFile-d3fcaf07ff0bf0a4aa831785d68383ad
-      projectPath: Temp\UnityTempFile-d3fcaf07ff0bf0a4aa831785d68383ad
-      originalPath: 
-      indexStatus: 1
-      workTreeStatus: 1
-    - path: Temp\UnityTempFile-d9f52e7e4f6ccad43bb7085d2ac8a019
-      fullPath: D:\UnityDev\Game\StarWars\Temp\UnityTempFile-d9f52e7e4f6ccad43bb7085d2ac8a019
-      projectPath: Temp\UnityTempFile-d9f52e7e4f6ccad43bb7085d2ac8a019
-      originalPath: 
-      indexStatus: 1
-      workTreeStatus: 1
-    - path: Temp\UnityTempFile-df57c2ef1b6120f4a98ea4b44b0746b8
-      fullPath: D:\UnityDev\Game\StarWars\Temp\UnityTempFile-df57c2ef1b6120f4a98ea4b44b0746b8
-      projectPath: Temp\UnityTempFile-df57c2ef1b6120f4a98ea4b44b0746b8
-      originalPath: 
-      indexStatus: 1
-      workTreeStatus: 1
-    - path: Temp\UnityTempFile-e1c8bf4fd28869c41a6f5ebe9ba19c32
-      fullPath: D:\UnityDev\Game\StarWars\Temp\UnityTempFile-e1c8bf4fd28869c41a6f5ebe9ba19c32
-      projectPath: Temp\UnityTempFile-e1c8bf4fd28869c41a6f5ebe9ba19c32
-      originalPath: 
-      indexStatus: 1
-      workTreeStatus: 1
-    - path: Temp\UnityTempFile-e56f0f6f55c235c4ebfe8848af894a2b
-      fullPath: D:\UnityDev\Game\StarWars\Temp\UnityTempFile-e56f0f6f55c235c4ebfe8848af894a2b
-      projectPath: Temp\UnityTempFile-e56f0f6f55c235c4ebfe8848af894a2b
-      originalPath: 
-      indexStatus: 1
-      workTreeStatus: 1
-    - path: Temp\UnityTempFile-eda32556573399f4493c388fa90d55d9
-      fullPath: D:\UnityDev\Game\StarWars\Temp\UnityTempFile-eda32556573399f4493c388fa90d55d9
-      projectPath: Temp\UnityTempFile-eda32556573399f4493c388fa90d55d9
-      originalPath: 
-      indexStatus: 1
-      workTreeStatus: 1
-    changedFilesText: 113 changed files
+    changedFilesText: 24 changed files
     lastCurrentBranchChangedEvent:
-      updatedTimeString: 2020-05-16T19:42:25.823+05:30
+      updatedTimeString: 2020-05-18T10:25:18.299+05:30
       cacheType: 1
     lastStatusEntriesChangedEvent:
-      updatedTimeString: 2020-05-16T19:45:29.147+05:30
+      updatedTimeString: 2020-05-18T13:54:20.601+05:30
       cacheType: 6
     lastLocksChangedEvent:
-      updatedTimeString: 2020-05-16T19:44:20.583+05:30
+      updatedTimeString: 0001-01-01T00:00:00.000+00:00
       cacheType: 7
   historyView:
     currentLogHasUpdate: 0
@@ -58636,13 +55385,13 @@ MonoBehaviour:
     m_Image: {fileID: 0}
     m_Tooltip: Url of the origin remote
   lastCurrentBranchAndRemoteChangedEvent:
-    updatedTimeString: 2020-05-16T19:42:25.823+05:30
+    updatedTimeString: 2020-05-18T10:25:18.299+05:30
     cacheType: 1
   lastTrackingStatusChangedEvent:
-    updatedTimeString: 0001-01-01T00:00:00.000+00:00
+    updatedTimeString: 2020-05-18T10:25:19.382+05:30
     cacheType: 5
   lastStatusEntriesChangedEvent:
-    updatedTimeString: 2020-05-16T19:45:29.147+05:30
+    updatedTimeString: 2020-05-18T10:35:40.811+05:30
     cacheType: 6
   pullButtonContent:
     m_Text: Pull
@@ -58660,8 +55409,8 @@ MonoBehaviour:
     m_Text: Fetch
     m_Image: {fileID: 0}
     m_Tooltip: 
-  repositoryProgressValue: 0.5
-  repositoryProgressMessage: Listing changed files...
+  repositoryProgressValue: 0
+  repositoryProgressMessage: 
   appManagerProgressValue: 1
   appManagerProgressMessage: Initialized
   connections: []
@@ -58687,15 +55436,17 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 0
-    y: 73
-    width: 813
-    height: 207
+    x: 8
+    y: 81
+    width: 803
+    height: 270
   m_PersistentViewDataDictionary: {fileID: 0}
   m_ViewTransforms:
     m_KeySerializationHelper:
     - {fileID: 1107298836213704288, guid: 4eabf4e3610c55c46a40ff99accba853, type: 2}
     - {fileID: 1107521616973207902, guid: fe3501311eb58d84da6405ca215a42a3, type: 2}
+    - {fileID: 1107715606368432940, guid: c3f9daffb08551b44a59cc40544ec882, type: 2}
+    - {fileID: 1107098494181993052, guid: 6d7df1b7db2b267409f53aa6753dd83c, type: 2}
     m_ValueSerializationHelper:
     - e00: 0.52
       e01: 0
@@ -58729,11 +55480,43 @@ MonoBehaviour:
       e31: 0
       e32: 0
       e33: 1
+    - e00: 1
+      e01: 0
+      e02: 0
+      e03: -8
+      e10: 0
+      e11: 1
+      e12: 0
+      e13: 18
+      e20: 0
+      e21: 0
+      e22: 1
+      e23: 0
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+    - e00: 1
+      e01: 0
+      e02: 0
+      e03: 0
+      e10: 0
+      e11: 1
+      e12: 0
+      e13: 0
+      e20: 0
+      e21: 0
+      e22: 1
+      e23: 0
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
   m_PreviewAnimator: {fileID: 0}
-  m_AnimatorController: {fileID: 9100000, guid: fe3501311eb58d84da6405ca215a42a3,
+  m_AnimatorController: {fileID: 9100000, guid: 6d7df1b7db2b267409f53aa6753dd83c,
     type: 2}
   m_BreadCrumbs:
-  - m_Target: {fileID: 1107521616973207902, guid: fe3501311eb58d84da6405ca215a42a3,
+  - m_Target: {fileID: 1107098494181993052, guid: 6d7df1b7db2b267409f53aa6753dd83c,
       type: 2}
     m_ScrollPosition: {x: 0, y: 0}
   stateMachineGraph: {fileID: 0}
@@ -58768,14 +55551,14 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 0
-    y: 300
-    width: 815
-    height: 428
+    x: 8
+    y: 371
+    width: 805
+    height: 349
   m_PersistentViewDataDictionary: {fileID: 0}
   m_LockTracker:
     m_IsLocked: 0
-  m_LastSelectedObjectID: -7270
+  m_LastSelectedObjectID: -32282
 --- !u!114 &18
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -58797,10 +55580,10 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 1086
-    y: 73
-    width: 278
-    height: 655
+    x: 1081
+    y: 81
+    width: 275
+    height: 639
   m_PersistentViewDataDictionary: {fileID: 0}
   m_ObjectsLockedBeforeSerialization: []
   m_InstanceIDsLockedBeforeSerialization: 
@@ -58831,10 +55614,10 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 0
-    y: 73
-    width: 813
-    height: 204
+    x: 8
+    y: 81
+    width: 803
+    height: 270
   m_PersistentViewDataDictionary: {fileID: 0}
   m_WindowGUID: 4212a746070e7c848b3794a1312cc220
   m_SceneLighting: 1
@@ -58842,9 +55625,9 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -819.7769, y: -11.217052, z: -10.175709}
+    m_Target: {x: -3.9193273, y: 1.4938449, z: 0.21856739}
     speed: 2
-    m_Value: {x: -819.7769, y: -11.217052, z: -10.175709}
+    m_Value: {x: -3.9193273, y: 1.4938449, z: 0.21856739}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -58876,15 +55659,15 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 1047.5747
+    m_Target: 9.70697
     speed: 2
-    m_Value: 1047.5747
+    m_Value: 9.70697
   m_Ortho:
     m_Target: 1
     speed: 2
     m_Value: 1
   m_ShowGlobalGrid: 1
-  m_LastSceneViewRotation: {x: 0.08717229, y: -0.89959055, z: 0.21045254, w: 0.3726226}
+  m_LastSceneViewRotation: {x: 0.04091265, y: -0.1386042, z: 0.005730958, w: 0.98948586}
   m_LastSceneViewOrtho: 0
   m_ReplacementShader: {fileID: 0}
   m_ReplacementString: 
@@ -58911,10 +55694,10 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 817
-    y: 297
-    width: 265
-    height: 431
+    x: 815
+    y: 371
+    width: 262
+    height: 349
   m_PersistentViewDataDictionary: {fileID: 0}
   m_SearchFilter:
     m_NameFilter: 
@@ -58928,7 +55711,7 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Sprites/Explosion
+    - Assets/Animation
   m_ViewMode: 0
   m_StartGridSize: 64
   m_LastFolders: []
@@ -58940,7 +55723,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: b6280000
     m_LastClickedID: 10422
-    m_ExpandedIDs: 00000000320a0000ea0b0000060c00005c0d00005e0d0000960e0000d20e0000d610000060110000ca110000
+    m_ExpandedIDs: 00000000360a0000160b0000ee0b00000a0c0000bc0c0000620d0000240f0000de10000068110000d211000064140000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -58968,7 +55751,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: ffffffff00000000320a0000120b0000ea0b0000060c00005e0d0000d610000060110000ca1100005c140000063b00006c490000
+    m_ExpandedIDs: ffffffff00000000360a0000160b0000ee0b00000a0c0000bc0c0000d80e0000de1000004c120000f8130000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -59044,17 +55827,17 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 815
-    y: 73
-    width: 267
-    height: 204
+    x: 813
+    y: 81
+    width: 264
+    height: 270
   m_PersistentViewDataDictionary: {fileID: 0}
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 60140000
-      m_LastClickedID: 0
-      m_ExpandedIDs: 02c7ffff66c8ffffaac8ffff30c9ffff52c9ffff1acaffff30caffff46caffff5ccaffff72caffff90caffffeccaffff26cbffff5acbfffffecbffff7accffff94ccffffceccffff34cdffffe0d2ffff56d3ffff62daffff96daffffc8daffff34dbffffdefbffffae1400001241000042450000e6460000
+      m_SelectedIDs: e681ffff
+      m_LastClickedID: -32282
+      m_ExpandedIDs: 7af9ffffdefbffffee3100001c32000022320000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -59099,10 +55882,10 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 0
-    y: 297
-    width: 815
-    height: 431
+    x: 8
+    y: 371
+    width: 805
+    height: 349
   m_PersistentViewDataDictionary: {fileID: 0}
   m_MaximizeOnPlay: 0
   m_Gizmos: 0
@@ -59114,10 +55897,10 @@ MonoBehaviour:
     m_VRangeLocked: 0
     hZoomLockedByDefault: 0
     vZoomLockedByDefault: 0
-    m_HBaseRangeMin: -368
-    m_HBaseRangeMax: 368
-    m_VBaseRangeMin: -207
-    m_VBaseRangeMax: 207
+    m_HBaseRangeMin: -295
+    m_HBaseRangeMax: 295
+    m_VBaseRangeMin: -166
+    m_VBaseRangeMax: 166
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
     m_VAllowExceedBaseRangeMin: 1
@@ -59135,25 +55918,25 @@ MonoBehaviour:
       serializedVersion: 2
       x: 0
       y: 17
-      width: 815
-      height: 414
+      width: 805
+      height: 332
     m_Scale: {x: 1, y: 1}
-    m_Translation: {x: 407.5, y: 207}
+    m_Translation: {x: 402.5, y: 166}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
-      x: -407.5
-      y: -207
-      width: 815
-      height: 414
+      x: -402.5
+      y: -166
+      width: 805
+      height: 332
     m_MinimalGUI: 1
   m_defaultScale: 1
   m_TargetTexture: {fileID: 0}
   m_CurrentColorSpace: 0
-  m_LastWindowPixelSize: {x: 815, y: 431}
+  m_LastWindowPixelSize: {x: 805, y: 349}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000100000100

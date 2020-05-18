@@ -5,11 +5,13 @@ using UnityEngine;
 public class Enemy : MonoBehaviour
 {
     [SerializeField]
-    private float enemySpd = 4f;
+    private int enemySpd = 4;
     Player _player;
+    Animator animator;
     void Start()
     {
         _player = GameObject.Find("Player").GetComponent<Player>();
+        animator = gameObject.GetComponent<Animator>();
     }
     void Update()
     {
@@ -24,7 +26,11 @@ public class Enemy : MonoBehaviour
     {
         if(other.tag == "Player" )
         {
-            Destroy(this.gameObject);
+            animator.SetTrigger("On_Destruction");
+            enemySpd = 0;
+            Destroy(this.gameObject,2.8f);
+
+            
             Player player = other.transform.GetComponent<Player>();
             if (player != null)
             {
@@ -37,8 +43,10 @@ public class Enemy : MonoBehaviour
         {
             //Destroy(other.gameObject);
             Destroy(other.gameObject);
+            animator.SetTrigger("On_Destruction");
+            enemySpd = 0;
             _player.AddScore(5);
-            Destroy(this.gameObject);
+            Destroy(this.gameObject,2.8f);
 
         }
 

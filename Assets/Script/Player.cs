@@ -31,6 +31,14 @@ public class Player : MonoBehaviour
     [SerializeField]
     private int score;
     private UImanager uim;
+    [SerializeField]
+    private GameObject _leftEngine;
+    [SerializeField]
+    private GameObject _rightEngine;
+    //[SerializeField]
+    //private bool _righteng = false;
+    //[SerializeField]
+    //private bool _lefteng = false;
     void Start()
     {
       transform.position= new Vector3(0,0,0);
@@ -98,6 +106,15 @@ public class Player : MonoBehaviour
         else
         {
             lives--;
+            if (lives == 2)
+            {
+                _leftEngine.SetActive(true);
+            }
+
+            if (lives == 1)
+            {
+                _rightEngine.SetActive(true);
+            }
             uim.UpdateLives(lives);
             if (lives == 0)
             {
